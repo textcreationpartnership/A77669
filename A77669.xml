@@ -1,0 +1,1554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A map of the microcosme, or, A morall description of man newly compiled into essayes / by H. Browne.</title>
+            <author>Browne, H. (Humphry)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 104 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77669</idno>
+            <idno type="STC">Wing B5115</idno>
+            <idno type="STC">ESTC R232470</idno>
+            <idno type="EEBO-CITATION">11761931</idno>
+            <idno type="OCLC">ocm 11761931</idno>
+            <idno type="VID">171542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 17:5 or 2421:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A map of the microcosme, or, A morall description of man newly compiled into essayes / by H. Browne.</title>
+                  <author>Browne, H. (Humphry)</author>
+               </titleStmt>
+               <extent>[203] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Harper for John Harrison ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of originals in the British Library and the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Religious ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171542:1"/>
+            <pb facs="tcp:171542:1" rendition="simple:additions"/>
+            <pb facs="tcp:171542:2"/>
+            <pb facs="tcp:171542:2" rendition="simple:additions"/>
+            <p>A MAP OF THE MICROCOSME, <hi>OR,</hi> A Morall Deſcription OF MAN. Newly compiled into ESSAYES: By H. BROWNE.</p>
+            <q>
+               <l>Sunt bona, ſunt quaedam mediocria, ſunt mala plura,</l>
+               <l>
+                  <hi>Quae legis: hic aliter noa ſit Avite liber.</hi>
+               </l>
+               <bibl>Martial. Ep. l. 1.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Harper,</hi> for <hi>John Williams,</hi> and are to be ſold at the Holy Lamb in Pauls Churchyard. 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171542:3" rendition="simple:additions"/>
+            <pb facs="tcp:171542:3"/>
+            <head>TO THE RIGHT HONOURABLE <hi>William</hi> Lord Marqueſs and Earle of <hi>Hartford,</hi> Viſcount <hi>Beu<g ref="char:EOLhyphen"/>champ,</hi> Knight of the Ho<g ref="char:EOLhyphen"/>nourable Order of the Bath, one of his Majeſties Moſt Honourable privie Councell, and Lord Go<g ref="char:EOLhyphen"/>vernour to the Prince his Highneſs.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honoura<g ref="char:EOLhyphen"/>ble, the great glory of your name, and un<g ref="char:EOLhyphen"/>paralleled goodneſſe of your nature, have not invited,
+<pb facs="tcp:171542:4"/> but inforced the readieſt affections of my mind, like ſo many winged meſſen<g ref="char:EOLhyphen"/>gers, to flye to your moſt honoured Lordſhip, in moſt humble acknowledgement of that unſpeakable duty and ſervice I owe to your moſt noble linage, which if I ſhould forget, I were wor<g ref="char:EOLhyphen"/>thy, as <hi>Alexander</hi> once ſerved one, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o bee branded in the forehead with <hi>Ingra<g ref="char:EOLhyphen"/>tus Hoſpes.</hi> My Father had this ſmall Parſonage he now enjoyes through the meanes of the Right Hono<g ref="char:EOLhyphen"/>rable your Lordſhips grand father of famous memory, whoſe deſerts were ſo great that Vertue and Fortune ſcemed to contend for the
+<pb facs="tcp:171542:4"/> preheminence in crowning them: had he no ſtatue e<g ref="char:EOLhyphen"/>rected for him, his great memory is marble to it ſelf, and his goodneſſe is its owne Monument ſufficient to conſecrate his name to perpetuity. Hee is gone, <hi>Majore noſtro cum da<g ref="char:EOLhyphen"/>mno quàm ſuo,</hi> (as <hi>Sue<g ref="char:EOLhyphen"/>tonius</hi> ſaid of <hi>Titus)</hi> his ſoule accompanyed with the winged hoaſt of heaven is fled to her Maker, and is clothed with the glorious robes of immortality and perfect glory in heaven; where I leave his bleſſed ſoule, and returne to your Lordſhip, who makes mee weigh my thoughts as it were in a ballance, whether
+<pb facs="tcp:171542:5"/> I ſhould conceive m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re griefe for the death of your Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhips grandfather, or more joy for enjoying your Lordſhip, who now ſhines in the upper Region of ho<g ref="char:EOLhyphen"/>nour and authority: cer<g ref="char:EOLhyphen"/>tainly 'tis fit they ſhould be equall. Seeing then my joy is nothing diminiſhed, I am bold humbly to crave your Lordſhip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> propitious favor ſo much as to ſhroud this my brood (now offered with the young Eagles at the altar of your Sunne) under your Honours power<g ref="char:EOLhyphen"/>full wings; that like the Sparrow which fled into the Philoſopher <hi>Zenocra<g ref="char:EOLhyphen"/>tes</hi> his boſome from the ta<g ref="char:EOLhyphen"/>lons of the perſpicacious
+<pb facs="tcp:171542:5"/> Hawke, it may be protected from the poyſonous teeth of black-mouth'd <hi>Momus,</hi> in this criticall, carping and cenſorious age. As <hi>Apel<g ref="char:EOLhyphen"/>les</hi> when he painted <hi>Buce<g ref="char:EOLhyphen"/>phalus,</hi> appealed to none but <hi>Zeuxis:</hi> ſo I appeale from the judgement of all men to your Lordſhips ap<g ref="char:EOLhyphen"/>probation, without which this meane worke of mine may be compared, as <hi>Pla<g ref="char:EOLhyphen"/>to</hi> compared many writing <hi>Adonidis hortis,</hi> writings that were of ſhort continu<g ref="char:EOLhyphen"/>ance, <hi>Scombros metuen<g ref="char:EOLhyphen"/>tia ſcripta.</hi> Your moſt no<g ref="char:EOLhyphen"/>ble name, honoured of all ſorts of men, being ſtamped in this leaden peece of my phantaſie, will make it cur<g ref="char:EOLhyphen"/>rant:
+<pb facs="tcp:171542:6"/> and as <hi>Phidias</hi> his Images were wont to be r<g ref="char:EOLhyphen"/>ſpected for the makers ſake not for the ſtuffe: ſo your Honour will make this I<g ref="char:EOLhyphen"/>mage, and gain r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpect un<g ref="char:EOLhyphen"/>to it; for unleſſe your Lord<g ref="char:EOLhyphen"/>ſhip were <hi>ultim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfe<g ref="char:EOLhyphen"/>ctio &amp; forma hujus ma<g ref="char:EOLhyphen"/>teriae,</hi> I might well ſay with <hi>Theognis,</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</p>
+               <p>Agens verò non egi, &amp; non finivi finiens.</p>
+            </q>
+            <p>I ſhould never have pre<g ref="char:EOLhyphen"/>ſumed to crave your Ho<g ref="char:EOLhyphen"/>nourable patronage of theſe firſt fruits of my poore en<g ref="char:EOLhyphen"/>deavours, or but offered them to your judicious view; but that I truſt you
+<pb facs="tcp:171542:6"/> will favourably accept the will for the deed, becauſe <hi>Voluntas eſt menſura a<g ref="char:EOLhyphen"/>ctionum.</hi> It is enough for little Birds to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is required of beaſts that are bigger Characters in the booke of Nature, to bee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: For obſcure and poore men that were not able to ſacrifice a living Bull, the Gentiles deemed it ſufficient if they did but <hi>Taurum e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>farina fingere. Artaxerxes</hi> did gratiouſly accept of a fiſt-full of water from the hand of poor <hi>Cy<g ref="char:EOLhyphen"/>naetas.</hi> And ambitious <hi>Alexander</hi> the Great, would <hi>parva libenter ac<g ref="char:EOLhyphen"/>cipere.</hi>
+            </p>
+            <pb facs="tcp:171542:7"/>
+            <p>I hope therfore (moſt No<g ref="char:EOLhyphen"/>ble Lord) that as the great glory of your powerfull name is able to diſpell the foggy miſts of my weak<g ref="char:EOLhyphen"/>neſſe, ſo your goodneſſe which exceeds your great<g ref="char:EOLhyphen"/>neſſe will excuſe my bold<g ref="char:EOLhyphen"/>neſſe: So ſhall I rejoyce more then the old Arcadi<g ref="char:EOLhyphen"/>ans did to ſee nights ſable canop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> removed, and hea<g ref="char:EOLhyphen"/>vens great ſpye, the Sunne, ſhine in his ſphere againe; and I will alwayes praiſe the Lord of Lords for your ear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hly honour, praying for increaſe thereof, be<g ref="char:EOLhyphen"/>ſeeching him to multiply his richeſt bleſsings upon y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Honour here, and to give you the inco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ruptible
+<pb facs="tcp:171542:7"/> Crowne of glory hereafter.</p>
+            <closer>
+               <signed>Your Lordſhips loyall and moſt humble ſer<g ref="char:EOLhyphen"/>vant, Humphry Browne.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>AD Lectorem.</head>
+            <pb facs="tcp:171542:8"/>
+            <pb facs="tcp:171542:8"/>
+            <q>
+               <p>
+                  <hi>C<g ref="char:V">Ʋ</g>pio, ſi fieri poteſt, propi<g ref="char:EOLhyphen"/>tiis auribus quid ſentiam dicere: Sin minus, dicam &amp; iratis.</hi>
+               </p>
+               <bibl>Senec. Epiſt. 59.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171542:9"/>
+            <pb facs="tcp:171542:9"/>
+            <head>A Map of the Microcoſme: <hi>OR, A morall deſcription of MAN.</hi> Newly Compiled into ESSAIES.</head>
+            <p>
+               <seg rend="decorInit">M</seg>AN is the <hi>maſterpiece</hi> of GODS workman<g ref="char:EOLhyphen"/>ſhippe, the great miracle and monu<g ref="char:EOLhyphen"/>ment of Nature, both for externall tranſcendencies
+<pb facs="tcp:171542:10"/> and inward faculties. He is the abſtract, modell, and briefe ſtory of the u<g ref="char:EOLhyphen"/>niverſe. Hee is the Ana<g ref="char:EOLhyphen"/>lyſis or reſolution of the greater world into the leſſe, the Epitome of that huge Tome, that great Manuſcript of Nature, wherein are written the Characters of Gods om<g ref="char:EOLhyphen"/>nipotency and power, the little Lord of that great Lordſhip the World. In a word, he is Gods Text, and all other creatures are commentaries upon it. Heaven reſembles his ſoule, earth his heart, pla<g ref="char:EOLhyphen"/>ced in the middeſt as a center, the liver like the ſea, from whence the
+<pb facs="tcp:171542:10"/> lively ſprings of blood doe flow, the braine gi<g ref="char:EOLhyphen"/>ving light and underſtan<g ref="char:EOLhyphen"/>ding, is like the Sunne; the ſenſes ſet round about like ſtarres. The World is a great Man, and a man is a little world; as one wittily:</p>
+            <q>
+               <p>
+                  <hi>Eſt Microcoſmus hom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, venae ſant flumina, corpus</hi>
+               </p>
+               <p>
+                  <hi>Terra, oculi duo ſunt lumina, ſilva caput.</hi>
+               </p>
+            </q>
+            <p>The ſoule of man is Immortall. And as <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> by the light of Nature ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>Reſtat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t mens ſola extrinſecus accedat, eaque ſola divina ſit, nihil
+<pb facs="tcp:171542:11"/> enim cum ejus actione com<g ref="char:EOLunhyphen"/>municat</hi>
+               <note place="margin">Lib. de gen. anim. c. 3.</note> 
+               <hi>actio corporalis.</hi> The body of man is mor<g ref="char:EOLhyphen"/>tall, but ſo ſymmetriou<g ref="char:EOLhyphen"/>ſly compoſed, as if nature had loſt it ſelfe in the harmony of ſuch a fea<g ref="char:EOLhyphen"/>ture. <hi>Omnium anima<g ref="char:cmbAbbrStroke">̄</g>tium formam vincit hominis fi<g ref="char:EOLhyphen"/>gura.</hi>
+               <note place="margin">Cicero 1. de nat. deorum.</note> The forme of all living creatures is with<g ref="char:EOLhyphen"/>out forme, compared to the excellent figure and compoſition of man. Man is called in the Hebrew <hi>Adam,</hi> from <hi>Adamah,</hi> which ſignifies red earth, not that ſolid part of it, but the britleſt duſt. His body onely is mortall, and that onely <hi>per accl<g ref="char:EOLhyphen"/>dens,</hi> occaſioned by his
+<pb facs="tcp:171542:11"/> diſobedience, not by cre<g ref="char:EOLhyphen"/>ation, a falſe perſwaſi<g ref="char:EOLhyphen"/>on of his immortality, made him become mor<g ref="char:EOLhyphen"/>tall, by the fond deſire of knowing more then hee did, his eyes were open<g ref="char:EOLhyphen"/>ed, but his ſight was ble<g ref="char:EOLhyphen"/>miſhed. He knew indeed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Thoſe<note place="margin">Homer. Odyſls</note> things that were good, &amp; thoſe things that were evill: but he had the ſpe<g ref="char:EOLhyphen"/>culative knowledge in the former, the practicall onely in the latter. An Apple kindled flames of diſſention in Greece, which was like <hi>Catilines</hi> incendium, being extin<g ref="char:EOLhyphen"/>guiſhed with ruine. Two pretty toyes, an Apple
+<pb facs="tcp:171542:12"/> and a woman made ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bee diſinherited of im<g ref="char:EOLhyphen"/>mortality; ſo that in a moment hee is throwne downe from the pinacle and ſpire of all his glory and is no better then the Poet calls him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Man is a ſha<g ref="char:EOLhyphen"/>dow, a dreame, or a drea<g ref="char:EOLhyphen"/>ming ſhadow. I have ſaid enough of him, for hee reades daily Lectures of his imperfection.</p>
+            <div type="part">
+               <pb facs="tcp:171542:12"/>
+               <head>A learned Man.</head>
+               <p>
+                  <seg rend="decorInit">A</seg> Learned man is the beſt chara<g ref="char:EOLhyphen"/>racter in the world, Gods great book in Folio. He is a God in the ſhape of man, when one that is rude, ſhut up in the darke dungeon of ignorance, is but a beaſt in the ſhape of man. Lear<g ref="char:EOLhyphen"/>ning is ſo tranſcendent and ſuperexcellent An<g ref="char:EOLhyphen"/>gelicall a gift, that a man is a man and no man which wants it. It is to be eſteemed far above gold or any pretious ſtones
+<pb facs="tcp:171542:13"/> digged out of the bow<g ref="char:EOLhyphen"/>els of the earth. A nee<g ref="char:EOLhyphen"/>dy ſcholar, whoſe wealth lies all in his braine, is better then a ſheep with a golden Fleece (as <hi>Dio<g ref="char:EOLhyphen"/>genes</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Diog. La<g ref="char:EOLhyphen"/>ert.</note> once ſaid of a rich Idiot) for the one wants money, the other huma<g ref="char:EOLhyphen"/>nity. The one is alive, the other dead. The one is in no feare of loſing his riches, when they are in him; the other is in feare of loſing himſelfe when he is in his riches. Let not any one who is of a noble progeny, ſay, I ſhall ſhine like a ſtarre in the worlds firmament, without the rare influ<g ref="char:EOLhyphen"/>ence of <hi>Mercurius;</hi> nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:171542:13"/> let any man ſay, <hi>In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure paterno,</hi>
+                  <q>Eſt mihi far modicum pu<g ref="char:EOLhyphen"/>rum<note place="margin">Perſius Sat. 5.</note> &amp; ſine labe ſa<g ref="char:EOLhyphen"/>linum:</q>
+               </p>
+               <p>I have a faire inheri<g ref="char:EOLhyphen"/>tance in my fathers coun<g ref="char:EOLhyphen"/>trey: what need I—<q>Nocturnis impalleſcere chartis,</q> contract pale<g ref="char:EOLhyphen"/>neſſe to my ſelfe by ſtu<g ref="char:EOLhyphen"/>dy; or taſte of pale <hi>Pi<g ref="char:EOLhyphen"/>rene,</hi> that Acrocorinthi<g ref="char:EOLhyphen"/>an Fountaine, in love un<g ref="char:EOLhyphen"/>to the Muſes? It is bet<g ref="char:EOLhyphen"/>ter to be <hi>Doctus in libris,</hi> then <hi>Dives in libris,</hi> lear<g ref="char:EOLhyphen"/>ned in bookes then rich in pounds; although the Poet ſaid:</p>
+               <q>Dummod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſit dives, bar<g ref="char:EOLhyphen"/>barus ille placet:</q>
+               <pb facs="tcp:171542:14"/>
+               <p>For <hi>Ariſtotle's</hi> lecture was in theſe wordes: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: Learning ſaid he, is an ornamen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in proſperity, a refuge i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> adverſity. It is wealth to the poor, and treaſure to the rich. <hi>Alexander</hi> the Great made ſo great ac<g ref="char:EOLhyphen"/>count of learning, that he thought himſelf more bound to <hi>Ariſtotle</hi> for his learning, then to his Fa<g ref="char:EOLhyphen"/>ther <hi>Philip</hi> for his life. This great Monarch of the world, in the trium<g ref="char:EOLhyphen"/>phant conqueſt of <hi>Thebes</hi> ſold all free men (Prieſts onely excepted) &amp; com<g ref="char:EOLhyphen"/>manded his Souldiers
+<pb facs="tcp:171542:14"/> neither to damnifie <hi>Pin<g ref="char:EOLhyphen"/>darus</hi> the Poet, nor any of his family. <hi>Pirrhus,</hi> that great vaunter of his victories, confeſſed, that <hi>Cyneas,</hi> his great favou<g ref="char:EOLhyphen"/>rite, got more by his learning, then hee by his ſword. Learning is ne<g ref="char:EOLhyphen"/>ver without glory; <hi>Mer<g ref="char:EOLhyphen"/>curius</hi> is never farre di<g ref="char:EOLhyphen"/>ſtant from <hi>Phoebus.</hi> It is hard, &amp; almoſt inacceſſi<g ref="char:EOLhyphen"/>ble to be as <hi>Hippias Eleus</hi>
+                  <note place="margin">Quintili<g ref="char:EOLhyphen"/>an. lib. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Orat.</note> was, a living Library of learning, and a walking Vatican of wit, igno<g ref="char:EOLhyphen"/>rant of nothing that is by humane induſtry com<g ref="char:EOLhyphen"/>prehenſible. <hi>Ex quolibet ligno non fit Mercurius.</hi> I cannot but praiſe them
+<pb facs="tcp:171542:15"/> who are adorned with this incomparable Pearl. And I will not altoge<g ref="char:EOLhyphen"/>ther diſpraiſe them that want it. For the Aſſe of all beaſts, is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, dull and ſtupid; not<g ref="char:EOLhyphen"/>withſtanding, out of his bones are made the beſt Pipes. Rich fools, which are but golden Aſſes, al<g ref="char:EOLhyphen"/>though eliminated them<g ref="char:EOLhyphen"/>ſelves from the quire of the Muſes, yet by their gold many excellent Scholars are nouriſhed up in learning, who ſa<g ref="char:EOLhyphen"/>crifice pure inventions to the Muſes. Our ſottiſh and idle Enthuſiaſts are to be reproved therefore, who call humane learn<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:171542:15"/> but <hi>Splendidum pec<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atum.</hi> They are ſure the Coblers diſciples, ſtitching together tales of Tubbes in Tubbes. They muſt either deny a<g ref="char:EOLhyphen"/>ny truth to be in humane learning, or elſe they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought to honour it Lace<g ref="char:EOLhyphen"/>demonian like, crediting the ſentence, though re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecting the Authour if bad. They cannot deny truth to bee in prophane Authours. It was true which <hi>Menander</hi> the Poet ſpake before the A<g ref="char:EOLhyphen"/>poſtle ever wrote it to the Church of Corinth, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Evill words corrupt good manners.. There
+<pb facs="tcp:171542:16"/> is but one truth, and whereſoever it is found, it muſt not bee rejected<g ref="char:punc">▪</g> If they honour not hu<g ref="char:EOLhyphen"/>mane learning then, ſo far as it is profitable and true, I leave them to bee hiſſed at, as unworthy e<g ref="char:EOLhyphen"/>ver to bee entred into Wiſe mans Colledge. And as <hi>Pierius</hi> his daughters were turned into Mag-pies for ſpea<g ref="char:EOLhyphen"/>king againſt the Muſes; ſo let them be accounted of all men, but as railing phanaticall Momes, and black-mouth'd Curres, void of reaſon and hu<g ref="char:EOLhyphen"/>manity. <hi>Cicero</hi> ſaid, hee would rather erre with <hi>Plato,</hi> then conceive the
+<pb facs="tcp:171542:16"/> truth aright with other. But I would have all men <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onor learning, as joyn'd with truth and infalli<g ref="char:EOLhyphen"/>bility, even as <hi>Ariſtotle</hi> honoured his Maſter <hi>Pla<g ref="char:EOLhyphen"/>to.</hi> Some may object and ſay, It is a part of great preſumption in me, who am of ſo few yeares, and ſmall experience, to at<g ref="char:EOLhyphen"/>tempt the painting forth of learning, when there bee ſo many lively pi<g ref="char:EOLhyphen"/>ctures thereof drawne al<g ref="char:EOLhyphen"/>ready, of which I may ſay with <hi>Zeuxis,</hi> more will envie then imitate. I confeſſe I am an un<g ref="char:EOLhyphen"/>worthy Herald to pro<g ref="char:EOLhyphen"/>clame the fame of lear<g ref="char:EOLhyphen"/>ning when my Cabinet
+<pb facs="tcp:171542:17"/> enſhrineth leaſt of thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> invaluable treaſure; and know you cannot know me by my lines to bee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cunning and accurat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ificer, as <hi>Protogine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> did <hi>Apelles.</hi> Where therefore my penſill fails me to limb in ſo curious a portraiture, I will play <hi>Timanthes,</hi> and ſhadow with a vaile.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:17"/>
+               <head>A Luſtfull Man.</head>
+               <p>A Luſtfull Man is ſo married to his un<g ref="char:EOLhyphen"/>cleane affections, that hee is marred by them, and becomes a Monſter, u<g ref="char:EOLhyphen"/>ſing
+<q>Humano capiti Cervicem<note place="margin">Horat. l. de Arte Poet</note> jungere equinam.</q>
+               </p>
+               <p>Hee continually courts the Lady <hi>Venus,</hi> who dwels at the ſigne of the Ivie Buſh: And as <hi>An<g ref="char:EOLhyphen"/>tonius</hi> was ſo bewitched with <hi>Cleopatra,</hi> who dranke an <hi>Vnion</hi> to him, that <hi>Vnam Cleopatram, &amp;</hi>
+                  <note place="margin">Plutarch. in vita Anton.</note> 
+                  <hi>ſpiraret &amp; loqueretur:</hi> ſo the luxurious man is
+<pb facs="tcp:171542:18"/> ſo bewitched with this lazie Lady, that <hi>Vnicam Venerem &amp; ſpirat &amp; lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quitur; Venus</hi> only is his diſcourſe, and the Book of Phyſickes that hee too much ſtudies. This kinde man increaſeth mankinde, not for love to the end, but to the meanes. Hee is ſo ſenſu<g ref="char:EOLhyphen"/>all, that hee hath more command over wilde beaſts, then his owne un<g ref="char:EOLhyphen"/>ruly and beaſtly affecti<g ref="char:EOLhyphen"/>ons, as one ſaid of <hi>Her<g ref="char:EOLhyphen"/>cules:</hi>
+               </p>
+               <q>
+                  <l>Lenam non potuit, potuit<note place="margin">Owen Ep.</note> ſuperare Leaenam</l>
+                  <l>Quem Fer a non valuit vincere, vicit Hera.</l>
+               </q>
+               <p>Hee is a Salamander, li<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:171542:18"/> continually in the flames of luſt; and hee will ſtill love, not leave any <hi>Lais,</hi> though hee buyes repentance at a deare rate: He is Planet<g ref="char:EOLhyphen"/>ſtruck with every rare fe<g ref="char:EOLhyphen"/>male, and hee will be<g ref="char:EOLhyphen"/>come a Planet too, wan<g ref="char:EOLhyphen"/>dring farre from the way of honeſty (which hee never could finde) if there bee not <hi>concordia formae atque pudicitiae</hi> in her. He is the <hi>Vulcan</hi> which picks the lockes of Virginity; and hee commends wo<g ref="char:EOLhyphen"/>men no longer then hee commands them. Hee honours the Pope as Pa<g ref="char:EOLhyphen"/>tron of his ſinne, which he counts veniall, at leaſt
+<pb facs="tcp:171542:19"/> venall. Hee is the wo<g ref="char:EOLhyphen"/>mens Kalender from ſe<g ref="char:EOLhyphen"/>venteene to thirty, if he ſcapes burning ſo long. Hee is ſtill in the Opta<g ref="char:EOLhyphen"/>tive mood, when not in the Conjunction. Hee dries up his radicall moi<g ref="char:EOLhyphen"/>ſture with the fire of his luſt: ſo that</p>
+               <lg>
+                  <l>His haires and ſinnes hee cannot equall call:</l>
+                  <l>For as his ſinnes increaſe, his haires doe fall.</l>
+               </lg>
+               <p>
+                  <hi>Venus</hi> was begot of <hi>Neptunes</hi> ſcumme, and therefore called <hi>Aphro<g ref="char:EOLhyphen"/>dite,</hi> as Poets fain, <hi>propter naturam ſeminis ſpumo<g ref="char:EOLhyphen"/>ſam.</hi> Shee is called <hi>He<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, à viſio<g ref="char:EOLhyphen"/>ne,</hi> becauſe <hi>oculi ſunt in
+<pb facs="tcp:171542:19"/> amore duces.</hi> The eyes are the windowes to let in luſt to the ſoul: where like a ſubterraneous fire, it breakes forth with un<g ref="char:EOLhyphen"/>ſpeakable vehemencie and fierceneſſe, never ſatisfied ſo long as a Whore is the Horizon of the ſight; the heart is the center of uncleane and polluted affections. <hi>Protogines</hi> portrayed <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> with a Spunge, ſprinkled with ſweet wa<g ref="char:EOLhyphen"/>ter; but if once ſhee wrung it, it would drop bloud. Shee is not un<g ref="char:EOLhyphen"/>wittily compared to <hi>Chi<g ref="char:EOLhyphen"/>maera:</hi> for as <hi>Chimaera</hi> is conceived to have the head of a Lion, the belly
+<pb facs="tcp:171542:20"/> of a Goat, and the taile of a Dragon: ſo venereous luſt in the beginning, hath the fierceneſſe of a Lion; in the middle, the lechery of a Goat; in the end the venome of a Dra<g ref="char:EOLhyphen"/>gon. <hi>Ariſtotles</hi> counſell was, to behold pleaſures, <hi>Non venientes, ſed abeun<g ref="char:EOLhyphen"/>tes:</hi> Not as they come with pleaſure, but as they goe with paine. Sweet ſents are dedicated to <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi> and ſowre ſawce alſo followes her. Whoſoe<g ref="char:EOLhyphen"/>ver is allured by the plea<g ref="char:EOLhyphen"/>ſant fragance of this fa<g ref="char:EOLhyphen"/>ding flower, Beauty, (which is the eyes Idoll) like a Goat, taken with a fond deſire of the Pan<g ref="char:EOLhyphen"/>thers
+<pb facs="tcp:171542:20"/> pleaſantneſſe, hee comes neerer and neerer to her, till he be deſtroy<g ref="char:EOLhyphen"/>ed by her: not unlike the tall trees in <hi>Ida,</hi> which al<g ref="char:EOLhyphen"/>lured many to reſt in them, under their ſha<g ref="char:EOLhyphen"/>dow, &amp; then infect them with their ſent. I could wiſh that all men would imitate <hi>Cyrus,</hi> a moſt no<g ref="char:EOLhyphen"/>ble and valiant King of Perſia, endued with ſuch continencie, that he loa<g ref="char:EOLhyphen"/>thed to looke on the hea<g ref="char:EOLhyphen"/>venly hiew of <hi>Panthaea,</hi> notwithſtanding <hi>Araſtus</hi> told him, the beauty of all others was eclipſed by her incomparable fea<g ref="char:EOLhyphen"/>ture. By ſo much the more, ſayd <hi>Cyrus,</hi> may I
+<pb facs="tcp:171542:21"/> be wounded with <hi>Cupids</hi> quiver, and in loving her I ſhould loſe the Majeſty of a King. When <hi>Venus</hi> riſeth, <hi>Phoebus</hi> ſetteth: Love never riſeth, but when glorious Majeſty ſetteth. <hi>Venus</hi> is a God<g ref="char:EOLhyphen"/>deſſe that has no Deity where diſcretion reignes.</p>
+               <q>
+                  <l>Non bene conveniunt nec<note place="margin">Ovid. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. l. 3.</note> in una ſede morantur</l>
+                  <l>Majeſtas &amp; amor—</l>
+               </q>
+               <p>The Poets fained <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> through love, or ra<g ref="char:EOLhyphen"/>ther luſt, to have aſſumed any forme: hee turned himſelfe into the ſhape<note place="margin">Nat. Co<g ref="char:EOLhyphen"/>mes 2. Myth. c. 1. Aelian. Var. Hiſt. l. 13 c. 31.</note> of <hi>Amphitrio</hi> and a gol<g ref="char:EOLhyphen"/>den ſhowre to betray <hi>Alcmena</hi> and <hi>Danae: Et Taurus, Cygnus, Satyrus<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                     <pb facs="tcp:171542:21"/> ob amorem Europae, Ledes Antiopae.</hi> More worſhip the Planet <hi>Venus,</hi> then <hi>Mercurius. Theodota</hi> was in more requeſt then <hi>So<g ref="char:EOLhyphen"/>crates.</hi> But hee that de<g ref="char:EOLhyphen"/>ſires to ſaile happily on this Sea, the world, muſt play Parthian warre with bewitching. Syren-like Harlots.</p>
+               <q>Sed fuge: tutus adhuc Parthus ab hoſte fuga eſt:</q>
+               <p>Let him flye idleneſſe, which is the firſt ſhaft <hi>Cupid</hi> ſhoots into the hot liver of a fond Lover: let him ſhunne opportu<g ref="char:EOLhyphen"/>nity as his Bawd, and oc<g ref="char:EOLhyphen"/>caſion as his Pandor.
+<pb facs="tcp:171542:22"/> Let him follow this counſell:</p>
+               <q>Neſedeas ſed eas, ne pe<g ref="char:EOLhyphen"/>reas pereas.</q>
+               <p>If he refuſes to keep the neſt of luſt warme, the pernitious brood of actu<g ref="char:EOLhyphen"/>all follies will not bee hatched: Fewell alſo muſt bee with-drawne from this fire, faſting ſpettle muſt kil this Ser<g ref="char:EOLhyphen"/>pent, which like the Ser<g ref="char:EOLhyphen"/>pent <hi>Sardinius,</hi> makes men dye laughing. <hi>Sine</hi>
+                  <note place="margin">Terentius</note> 
+                  <hi>Cerere &amp; Baccho friget Venus:</hi> where there is cleanneſſe of teeth, there is no filthineſſe of body. <hi>Crates</hi> the Theban pre<g ref="char:EOLhyphen"/>ſcribed <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Hunger, Time, an Halter,
+<pb facs="tcp:171542:22"/> ſignifying, thereby, that if preſent hunger, or length of time, quench not this flame in any man, he is worthy to bee hanged. Wound <hi>Venus</hi> therefore with <hi>Diomedes</hi> in <hi>Homer,</hi> leſt <hi>Venus</hi> wound thee.</p>
+            </div>
+            <div type="part">
+               <head>A factious Hypocrite.</head>
+               <p>A Factious Hypocrite is Satans cloſe Fa<g ref="char:EOLhyphen"/>ctor, and Gods open profeſſour, an outward Chriſtian, an inward Di<g ref="char:EOLhyphen"/>vell; according to the proverb the Grecians had
+<pb facs="tcp:171542:23"/> of <hi>Philo Iudaeus</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Either <hi>Plato</hi> followeth <hi>Philo,</hi> or <hi>Philo</hi> imitateth <hi>Plato. Mutato nomine d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>te.</hi> Either the hypocrite followeth the Divell, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Divel the Hypocrite <hi>Intus Nero, foris Cato, to tus ambiguus, monſtrum eſt.</hi> Cruell <hi>Nero</hi> within grave <hi>Cato</hi> without, al<g ref="char:EOLhyphen"/>wayes double, and a monſter. Like the Dra<g ref="char:EOLhyphen"/>gons of Armenia, that have cold bodies, and yet caſt fire out of their mouthes: like pepper, hot in the mouth, cold in the ſtomack. The mouth of a painted hypocrite tells all men, that his zeale is
+<pb facs="tcp:171542:23"/> in the torrid Zone, when indeed his owne heart conceives that the frigid Zone may well chalenge<note place="margin">Perſius.</note> it. <hi>Aſtutum rapido ſerrat ſub pectore vulpem.</hi> His in-ſide is lined with Fox furre, his out-ſide is of Sheepes wooll: He is a dunghill covered over with ſnow, whereon if the Sunne of a cleare judgement doth but re<g ref="char:EOLhyphen"/>flect his reſplendent beames, it will yeeld ſo many noyſome exhala<g ref="char:EOLhyphen"/>tions, that are enough to infect a kingdome. All vertues are as paral<g ref="char:EOLhyphen"/>lell lines to him, and therefore two of them cannot bee coincident in
+<pb facs="tcp:171542:24"/> his heart as the Center. Formall preciſenes holds the doore as a Porter, whiles legions of Divels dance within. Hee is on Sunday like the <hi>Rubrick</hi> or Sunday letter, zealouſly red; and if his other oc<g ref="char:EOLhyphen"/>caſions will permit him, hee will then dance af<g ref="char:EOLhyphen"/>ter the Fiddle of ſome baſe Mechanicke of the fraternity; (who with his phantaſticke vaine con<g ref="char:EOLhyphen"/>ceits, brainſicke dreames, forged revelations, and inſpired nothings, adul<g ref="char:EOLhyphen"/>terates Truth, the very ſpouſe of the underſtan<g ref="char:EOLhyphen"/>ding) but all the weeke you may write his deeds in blacke, he being a Stu<g ref="char:EOLhyphen"/>dent
+<pb facs="tcp:171542:24"/> in the Divels Aca<g ref="char:EOLhyphen"/>demy. He is a book with a painted cover, beſcri<g ref="char:EOLhyphen"/>bled with many blacke Characters of miſchiefe, written with the Divels owne hand, and through<g ref="char:EOLhyphen"/>ly read of very few. His tongue writes volumes of diſſimulation in folio, and himſelfe is a Chriſti<g ref="char:EOLhyphen"/>an hardly in <hi>decimo ſexto. Plutarch</hi> writeth, that the Amphictyones in Greece, a famous Coun<g ref="char:EOLhyphen"/>cell, aſſembled of twelve ſundry people, wrote up<g ref="char:EOLhyphen"/>on the Temple of <hi>Apollo Pythius,</hi> in ſtead of the Iliads of <hi>Homer,</hi> or ſongs of <hi>Pindarus;</hi> ſhort ſen<g ref="char:EOLhyphen"/>tences and memoratives,
+<pb facs="tcp:171542:25"/> as, <hi>Know thy ſelfe, uſe moderation, beware of Suretiſhip,</hi> and the like. Theſe Hypocrites are de<g ref="char:EOLhyphen"/>lighted with large tiring diſcourſes, if the fruit of their owne braines, and they will bee ſure to ob<g ref="char:EOLhyphen"/>ſerve the laſt of thoſe 3. ſentences: for their words are preciſe, their deeds conciſe; like a looſe hung Mill, they keepe great clacking, but grinde no griſt. They are all for dead faith; and rather then they wil be thought to hold good works me<g ref="char:EOLhyphen"/>ritorious, they will doe none at all. They have more Divinity then Hu<g ref="char:EOLhyphen"/>manity &amp; will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather give
+<pb facs="tcp:171542:25"/> diſtreſſed neighbour a <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ater noſter</hi> then a peny, loying his ſtomack with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>exts againſt ſloath and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eggery: as if an hungry <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oule were like <hi>Charles</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Prage, who ſupped <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ften with the diſhes in <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lato's</hi> banket, a few Sen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ences and Arguments in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Schooles. They are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o little guilty of the Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſts errour, in holding good works meritorious, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat I may ſay and not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lander them, the fire of zeale dries up the deaw of Charity. There bee ſome hypocrites who deny all humane inven<g ref="char:EOLhyphen"/>tions, except their owne, and raile at ceremonies
+<pb facs="tcp:171542:26"/> for trifles, when indeed their piety is but a cere<g ref="char:EOLhyphen"/>mony, outward not in<g ref="char:EOLhyphen"/>ward. They miſlike all ſet formes of prayer, and worſhip only the Calves of their owne lips, extem<g ref="char:EOLhyphen"/>porary non-ſenſe. Theſe are factious Schiſmaticks poſſeſſed with the ſpirit of contradiction, ſuppo<g ref="char:EOLhyphen"/>ſing like him in <hi>Tully,</hi> great learning and elo<g ref="char:EOLhyphen"/>quence to be in contradi<g ref="char:EOLhyphen"/>ction. <hi>Diſertus eſſe poſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi>
+                  <note place="margin">Tuſculan Quaeſt. l. 1.</note> 
+                  <hi>ſi contra iſte dicerem.</hi> They are meere Antipo<g ref="char:EOLhyphen"/>des to order, when they ſhould ſtand they'l kneel, and when they ſhould kneele, to ſhew all their uprightneſſe at once, they
+<pb facs="tcp:171542:26"/> will ſtand: therefore they deſerve to fall. They pray long in the Church, and if they can conveniently, they will prey on the Church. They turne ſound preaching into a ſound of preaching, pra<g ref="char:EOLhyphen"/>ting. Like empty Cym<g ref="char:EOLhyphen"/>bals they ſound for emp<g ref="char:EOLhyphen"/>tineſſe, being but vaine ſymbols of ſchiſme: they are bad conſonants in truth; and I could wiſh, they were Mutes in falſ<g ref="char:EOLhyphen"/>hood. As <hi>Phydias</hi> made all pictures with one face, ſo they paint all ver<g ref="char:EOLhyphen"/>tues, which ſquare not with their brainſicke hu<g ref="char:EOLhyphen"/>mours, with vices face, thinking themſelves to
+<pb facs="tcp:171542:27"/> be the ſole elect, though true piety, pitty, honeſty and the like, are <hi>in grad<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> incompoſsibili</hi> to them, and they to heaven. They ſeeme ſo confident of their ſalvation, that with the Swan they ſing An<g ref="char:EOLhyphen"/>themes of apparant joy at their departure hence: But I am afraid, they leave this world the wel<g ref="char:EOLhyphen"/>head of ſalt teares, and goe to hell in a gol<g ref="char:EOLhyphen"/>den dream of heaven.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:27"/>
+               <head>A covetous Wretch.</head>
+               <p>THe covetous miſers thoughts are ſtil gol<g ref="char:EOLhyphen"/>den, and his minde is ne<g ref="char:EOLhyphen"/>ver elevated above his Mine. He thinkes gaine to be godlineſſe, crying it up with <hi>Demetrius</hi> as his great <hi>Diana.</hi> He likes our Religion beſt, be<g ref="char:EOLhyphen"/>cauſe 'tis beſt cheape; he ſmells this Maxime well every where, <hi>Lucri bonus</hi>
+                  <note place="margin">Iuven. Sat. 14.</note> 
+                  <hi>eſt odor ex re qualibet.</hi> As the Oſtrich diſgeſts iron, ſo can his conſcience any gold, howſoever gotten. He ſubordinates al things both Divine and humane
+<pb facs="tcp:171542:28"/> to gaine; and with <hi>Veſpa<g ref="char:EOLhyphen"/>ſian</hi> he conceives no way to be indirect to it. Hee would ſlay an Aſſe for his skin; and like <hi>Hermocra<g ref="char:EOLhyphen"/>tes</hi> dying would make himſelfe his owne execu<g ref="char:EOLhyphen"/>tor: for cetain he is made adminiſtrator to his good name while hee is alive, for it dies long afore him, without a funeral. When inſatiable avarice ſteeres the will, and ſits in the heart as Queene-regent, ſhe is attended on with impiety, want of charity, envy, diſhoneſty, infamy, and the like, as her maids of diſhonour. This wret<g ref="char:EOLhyphen"/>ched muck worme ſel<g ref="char:EOLhyphen"/>dome ſurfets with ex<g ref="char:EOLhyphen"/>ceſſe
+<pb facs="tcp:171542:28"/> of cheere: For at home he eateth more for preſent need, then fu<g ref="char:EOLhyphen"/>ture health: <hi>Corpus ex<g ref="char:EOLhyphen"/>tenuat ut lucrum extendat:</hi> hee defraudes his <hi>Genius,</hi> and is in debt to backe and belly for lucres ſake. <hi>Chius</hi> like he will fill the beſt wine to others, and drinke the lees himſelfe, his deſire being to fill his Coffers, and to put his belly into his purſe: for parcimony and ſlen<g ref="char:EOLhyphen"/>der diet are the chiefeſt vertues commended in his Ethickes: but another mans table ſharpneth his appetite, and if hee ever ſurfet, 'tis then. Hee doth ſo accuſtome himſelfe to
+<pb facs="tcp:171542:29"/> baſeneſſe, that it become<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his nature. Hee eſteeme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the mockes and hiſſes o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the people a vaine frivo<g ref="char:EOLhyphen"/>lous matter, and daſhes i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the contemplation of his mony in his cheſt<g ref="char:punc">▪</g> 
+                  <hi>Quid enim ſalvis inſani<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">Inven. Sat. 14.</note> 
+                  <hi>nummis?</hi> If his money be ſafe, hee counts infa<g ref="char:EOLhyphen"/>my an idle thing not to be eſteemed. All things beſides his ruſty coine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeeme nothing to him; he with it, ſeemes nothing to others, and without it he is nothing to himſelfe; becauſe his mony is his <hi>ultima perfectio,</hi> and the very <hi>ratio formalis</hi> of his ſoule: for hee hath a leaſe of his wits onely during
+<pb facs="tcp:171542:29"/> the continuance of his wealth, which makes him an Artiſt. His Rhe<g ref="char:EOLhyphen"/>toricke is how to keepe him out of the Subſidy: his Logicke is to prove heaven in his Cheſt: his Geometry is to meaſure the goodnes of any thing by his owne profit: his Arithmetick is in Addi<g ref="char:EOLhyphen"/>tion and Multiplication onely: his Phyſicke is to adminiſter gold to his eye, though he ſtarve his body: his Muſick is, Sol re me fa, <hi>ſola res me fa<g ref="char:EOLhyphen"/>cit,</hi> that which makes me, makes mee merry. Divi<g ref="char:EOLhyphen"/>nity hee hath none, but <hi>Sculptura</hi> is his <hi>Scriptura;</hi> and hee hath ſo many
+<pb facs="tcp:171542:30"/> gods as Images of coine. The earth is his heaven, and the golden Angels are his gods, in whoſe ſight conſiſts his beatifi<g ref="char:EOLhyphen"/>call viſion. If his purſe be l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght, his heart is heavie<g ref="char:punc">▪</g> and if his purſe be filled, hee is filled with more cares, <hi>Creſcentem ſequitur cura pecuniam majorum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi>
+                  <note place="margin">Horatius. Quo plus ſunt po<g ref="char:EOLhyphen"/>tae plus ſi<g ref="char:EOLhyphen"/>tiunt a<g ref="char:EOLhyphen"/>quae.</note> 
+                  <hi>fames. Tantalus</hi> like hee is never ſatisfied: for his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth <hi>Senectute juveneſcere.</hi> He thinkes it juſt to deduct from a ſer<g ref="char:EOLhyphen"/>vants wages the price of an halter, which hee cut to ſave the wretch when hee had hung himſelfe at the fall of the market. There is no man poorer
+<pb facs="tcp:171542:30"/> then himſelfe, <hi>Magnas inter opes inops:</hi> he is poor being rich. For as <hi>Seneca, pauper eſt non qui parune habet, ſed qui plus cupit.</hi> Hee is not poore who hath little, but that covets more. Hee is like the tempeſtuous Sea be<g ref="char:EOLhyphen"/>tween <hi>Scilla</hi> and <hi>Charyb<g ref="char:EOLhyphen"/>dis,</hi> agitated with con<g ref="char:EOLhyphen"/>trary windes and waves. Deſire, diſtruſt, <hi>Spemque metumque inter,</hi> hee is cruelly tormented and excrutiated, as if he were in <hi>Phalaris</hi> his brazen Bull, or <hi>Aemilius Cenſo<g ref="char:EOLhyphen"/>rinus</hi> his brazen Cow: for the deſire of getting infi<g ref="char:EOLhyphen"/>nite riches, is a ſpurre to his ſides; and riches got<g ref="char:EOLhyphen"/>ten
+<pb facs="tcp:171542:31"/> are as thornes to his eyes. <hi>Miſera eſt magni cuſtodia conſus.</hi> The cu<g ref="char:EOLhyphen"/>ſtody<note place="margin">Juven.</note> of great ſubſtance hath ſtill equall miſery to accompany it: ſo that I may well ſay, <hi>Avarus nemini bonus, ſibi verò peſsimus,</hi> a covetous wretch is good to no man, worſt to himſelfe, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, drawing to himſelfe evils, as the Northeaſt winde doth clouds. <hi>Ful<g ref="char:EOLhyphen"/>gentius</hi> obſerves, that king<note place="margin">My hol. l. 1.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>idas,</hi> who deſired <hi>A<g ref="char:EOLhyphen"/>pollo,</hi> that every thing which he touched might be turned into gold, is ſo called, <hi>quaſi</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, knowing nothing: but if
+<pb facs="tcp:171542:31"/> hee knew nothing, how could he covet ſo much? for <hi>Ignoti nulla cupido.</hi> Certainly hee knew e<g ref="char:EOLhyphen"/>nough, though hee was no Graduate in the libe<g ref="char:EOLhyphen"/>rall Sciences; but of that which was <hi>ſibi conveni<g ref="char:EOLhyphen"/>ens,</hi> hee was utterly igno<g ref="char:EOLhyphen"/>rant, his underſtanding therein being as blinde as his will. Every <hi>Midas</hi> is a fit inſtrument for Satan to effect any miſchievous deſignes, becauſe his pie<g ref="char:EOLhyphen"/>ty is alwayes overſwayed by his profit: And as the children of Iſrael for<g ref="char:EOLhyphen"/>ſooke God, and worſhip<g ref="char:EOLhyphen"/>ped the Golden Calfe, ſo hee will leeve <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and embrace <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: This mi<g ref="char:EOLhyphen"/>ſer
+<pb facs="tcp:171542:32"/> cannot abide to heare<note place="margin">Ariſt. l. 2. Ethic. c 7.</note> of reſtitution; he doth ex<g ref="char:EOLhyphen"/>ceed in receiving, but is very deficient in gi<g ref="char:EOLhyphen"/>ving; like the Chriſtmas earthen boxes of Ap<g ref="char:EOLhyphen"/>prentices, apt to take in money, but hee reſtores none till hee bee broken like a potters veſſell into many ſhares, and then the Divell will have his wic<g ref="char:EOLhyphen"/>ked ſoule, the worms his leane Karkaſſe, which will ſcarce affoord them a breakfaſt; and ſome unthrifty heire the gol<g ref="char:EOLhyphen"/>den web which hee, like the Spider, hath weaved out of the bowels of his long travell and vexed ſpirit, all the dayes of his
+<pb facs="tcp:171542:32"/> vanity. The end of his ambition is to die rich to others, and to live poore to himſelfe: he toiles like a Dog in a wheel, to roaſt meat for other mens ea<g ref="char:EOLhyphen"/>ting. There is but one way for this covetous Holdfaſt to goe to hea<g ref="char:EOLhyphen"/>ven, which is to be drawn up by that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or golden chaine in <hi>Homer,</hi>
+                  <note place="margin">Iliad. l. 1.</note> reaching from earth to heaven; but he knowing that to be a fable wil goe where gold is, <hi>In viſcera terrae,</hi> hell being his cen<g ref="char:EOLhyphen"/>ter, where I leave him.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:33"/>
+               <head>An Angry Man.</head>
+               <p>AN angry man is cou<g ref="char:EOLhyphen"/>ſin german to a mad man, unleſſe his anger bee in the beſt ſenſe, which anger is al<g ref="char:EOLhyphen"/>wayes lawfull, being a<g ref="char:EOLhyphen"/>dorned with adviſed ſpeech in a ſeaſonable time; it is to the ſoule as a nerve to the body. The Philoſopher calls it <hi>Cos fortitudinis,</hi> the whet<g ref="char:EOLhyphen"/>ſtone of fortitude, infu<g ref="char:EOLhyphen"/>ſing valour in the vindi<g ref="char:EOLhyphen"/>cation of a publike or private good. As the Veſtal fire was preſerved
+<pb facs="tcp:171542:33"/> by chaſtity, ſo this by charity: But I leave this anger to be followed, and follow that anger which is to bee eſchewed, that anger which is a tyranni<g ref="char:EOLhyphen"/>call, ſinfull paſſion, <hi>initi<g ref="char:EOLhyphen"/>um inſaniae,</hi> ſaid <hi>Ennius,</hi> and <hi>initium poenitentiae,</hi> ſaid <hi>Seneca;</hi> the cauſe<note place="margin">Sen. de ira lib. 2. c. 22. Ira ſorti producit lacertos imbelli linguam.</note> whereof is ſome concei<g ref="char:EOLhyphen"/>ved injury; <hi>cauſa iracun<g ref="char:EOLhyphen"/>diae opini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> injuriae eſt.</hi> This heat becomes hate, and a malicious deſire of re<g ref="char:EOLhyphen"/>venge, exerciſing the armes of the ſtrong, and tongues of the weake; and as a noyſome peſti<g ref="char:EOLhyphen"/>lent fiery Meteor, com<g ref="char:EOLhyphen"/>poſed altogether of fuli<g ref="char:EOLhyphen"/>ginous vapours, riſen
+<pb facs="tcp:171542:34"/> from pitchy Acheron, it belcheth forth nothing but flames of ſedition, tumults, battels, murders, and deſtruction, and all through a conflict of two contrary paſſions aſſaul<g ref="char:EOLhyphen"/>ting the heart at the ſame inſtant, griefe and plea<g ref="char:EOLhyphen"/>ſure; griefe for the inju<g ref="char:EOLhyphen"/>ry offered, whereby great heat is gathered about the heart, making the face pale and blackiſh; which inteſtine flame like a ſub<g ref="char:EOLhyphen"/>terraneous fire, makes an eruption into direfull threats of revenge, and enlarges the heart with the pleaſure thereof: for according to <hi>Ariſtotle,</hi>
+                  <note place="margin">Rhet. l. 2. cap. 2.</note> ſome pleaſure through
+<pb facs="tcp:171542:34"/> hope of revenge ſtill ac<g ref="char:EOLhyphen"/>companies this affection, which differs from mad<g ref="char:EOLhyphen"/>neſſe only <hi>temporis mora.</hi> The Grecians call it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, from the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ap<g ref="char:EOLhyphen"/>peto,</hi> becauſe deſire of re<g ref="char:EOLhyphen"/>venge is eſſentiall to it. <hi>Aquinas</hi> makes three de<g ref="char:EOLhyphen"/>grees of anger, <hi>Fel, ma<g ref="char:EOLhyphen"/>niam, furorem;</hi> the one hee ſaith hath beginning and motion, but preſent<g ref="char:EOLhyphen"/>ly ceaſeth, like a flaſh of lightning, <hi>cito oritur cito moritur.</hi> The other taketh deeper hold in the me<g ref="char:EOLhyphen"/>mory. The third deſiſt<g ref="char:EOLhyphen"/>eth not without revenge, for it is kept ſo long in the veſſell of the heart, that it waxeth eager and
+<pb facs="tcp:171542:35"/> ſoure, and is turned into malice. Some are ſharpe, ſaith <hi>Ariſtotle,</hi> who like gunpowder are no ſooner touched, but they flye in your face; others are bit<g ref="char:EOLhyphen"/>ter; a third kinde is im<g ref="char:EOLhyphen"/>placable, who like the ſtone in Arcadia named Asbeſtos, mentioned by <hi>Solinus,</hi> being once ſet on fire can hardly bee quen<g ref="char:EOLhyphen"/>ched: they never unfold their browes, as if anger had there plowed the furrowes of her wrath, and they graven their in<g ref="char:EOLhyphen"/>juries in marble: they commonly harbour this unruly affection ſo long in their hearts, (as the Lacedemonian boy did
+<pb facs="tcp:171542:35"/> his Fox) till it gnaw out their hearts. <hi>Furor ira<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mentem praecipitant,</hi> Fu<g ref="char:EOLhyphen"/>ry is a meere <hi>Circe</hi> which maketh a monſtrous and inhumane metamorpho<g ref="char:EOLhyphen"/>ſis, transforming men in<g ref="char:EOLhyphen"/>to cruell Tygres. An an<g ref="char:EOLhyphen"/>gry man is altogether ir<g ref="char:EOLhyphen"/>rationall <hi>quoad actum ſe<g ref="char:EOLhyphen"/>cundum.</hi> He reſpects nei<g ref="char:EOLhyphen"/>ther Prince, Prieſt, nor People; he reviles al, <hi>fra<g ref="char:EOLhyphen"/>trem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> patrem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>.</hi> Of <hi>Da<g ref="char:EOLhyphen"/>metas</hi> hee is turned into <hi>Hercules furens,</hi> and while the lightning of his rage laſts, hee throwes out the thunderbolts of his rage upon all, not ſticking in his fiery fury, with <hi>Hip<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> to butcher his dea<g ref="char:EOLhyphen"/>reſt
+<pb facs="tcp:171542:36"/> innocent friends, <hi>Cum ſpirat irae ſanguinem neſci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> regi,</hi> when anger breathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth bloody commina<g ref="char:EOLhyphen"/>tions, ſhe knows not how to bee ruled, for reaſon, which ſhould ſteere the little ſhip of man, ſayling on the raging ſea of af<g ref="char:EOLhyphen"/>fections, is now put be<g ref="char:EOLhyphen"/>ſides the helme. Wiſe<g ref="char:EOLhyphen"/>dom cannot be the judge when anger is the ſollici<g ref="char:EOLhyphen"/>tour. Men ſicke of this Bedlam paſſion, often make irrationall and in<g ref="char:EOLhyphen"/>ſenſible creatures, the ob<g ref="char:EOLhyphen"/>jects of their bitterneſſe: <hi>Balaam</hi> ſmote his Aſſe, <hi>Xerxes</hi> levelled the fiery darts of his fierce fury a<g ref="char:EOLhyphen"/>gainſt Athos a Thracian
+<pb facs="tcp:171542:36"/> mountaine, threatning to cut it downe, and caſt it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the ſea, if it were not paſſable. <hi>Darius,</hi> becauſe a river had drowned a white horſe of his, vow<g ref="char:EOLhyphen"/>ed to cut it into ſo many chanels, that a woman with childe might goe over dry-ſhood. So the Africans being infeſted with a North winde, that covered a Corne field with ſand from a moun<g ref="char:EOLhyphen"/>taine, levied an army of men to fight with that winde; but the ſand be<g ref="char:EOLhyphen"/>came their Sepulchre. How much more irratio<g ref="char:EOLhyphen"/>nall and inſenſible are theſe men, then the things they maligne? Any one
+<pb facs="tcp:171542:37"/> without ſpectacles may behold Aſſes eares under their Lions skins, folly in their fury. That diſeaſe, ſaith <hi>Hippocrates<g ref="char:punc">▪</g>
+                  </hi> is moſt dangerous, in which the ſicke man changeth the habit of his mouth, and becomes moſt unlike himſelfe: And if that be true, there is no diſeaſe more deſperate then an<g ref="char:EOLhyphen"/>ger; for it altereth not onely the countenance, the language, and the ge<g ref="char:EOLhyphen"/>ſtures of the body, but alſo the faculties of the minde, making a man a monſter.</p>
+               <q>
+                  <l>Impatiens animus, dirae, blaſphemia, probrum,</l>
+                  <pb facs="tcp:171542:37"/>
+                  <l>Vltio, rixa, minae, ſunt irae pignora ſeptem.</l>
+               </q>
+               <p>Other paſſions dally with a man, entice him, dazzle him, and onely in<g ref="char:EOLhyphen"/>cline him, but this com<g ref="char:EOLhyphen"/>mands him, compels him, blindes him, that he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ees no good, and feares no evill: Therefore Fury which drives him, is painted with a Sword in his hand, and for the im<g ref="char:EOLhyphen"/>patient deſire of revenge wherewith hee is infla<g ref="char:EOLhyphen"/>med<g ref="char:punc">▪</g> violently ruſhing up<g ref="char:EOLhyphen"/>on a Iavelin: ſo that, <hi>plus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ocitura eſt ira quam inju<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia,</hi> anger is more hurt<g ref="char:EOLhyphen"/>full then the injury that cauſes it. No Phyſicke
+<pb facs="tcp:171542:38"/> may bee preſcribed ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> long as this Dog-ſtarr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> predominates. The beſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> preſervative is to reſiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the beginning of this e<g ref="char:EOLunhyphen"/>vill, and (as the Pigmie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deale with the Cranes cracke it in the ſhell. <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> confinibus arcendus eſt h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſtis,</hi> The enemy is be dri<g ref="char:EOLunhyphen"/>ven back in the frontiers If any man did well con<g ref="char:EOLunhyphen"/>ſider the great danger o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this bloudy paſſion which like the viper cau<g ref="char:EOLunhyphen"/>ſeth corruption where i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath generation, he would hate himſelfe fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> affecting that which makes him not himſelfe The Emperour <hi>Nerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ended his life in a Fea<g ref="char:EOLunhyphen"/>ver
+<pb facs="tcp:171542:38"/> contracted by anger. The Emperour <hi>Valenti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ianus</hi> died by an irrupti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of bloud through an<g ref="char:EOLhyphen"/>ger, with many other. Blacke clouds of danger <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re alwayes imminent, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd a more then beaſtly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eformity, never abſent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o long as this ugly Toad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s preſent. It is <hi>Seneca's</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounſell, that the angry <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an ſhould behold him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elfe in a mirror, <hi>Iratis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rofuit aſpexiſſe ſpeculum;</hi>
+                  <note place="margin">Lib. 2. de Ir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. c. 36.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ui ad ſpeculum venerat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſe mutaret jam mutave<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at:</hi> Hee who comes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the looking glaſſe to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hange himſelfe, is al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eady changed. Againe,<note place="margin">Sen. l. 2. de Ira. c. 28.</note> 
+                  <hi>Maximum remedium eſt
+<pb facs="tcp:171542:39"/> irae mora; deſinet, ſi expe<g ref="char:EOLhyphen"/>ctet.</hi> Delay is the grea<g ref="char:EOLhyphen"/>teſt remedy of anger, it ceaſes if it fall in ſuſ<g ref="char:EOLhyphen"/>pence. The counſell of <hi>Anthenodorus</hi> the Philo<g ref="char:EOLhyphen"/>ſopher to <hi>Auguſtus Caeſar</hi> was, <hi>Antequam indulge as irae percurre tecum alpha<g ref="char:EOLhyphen"/>betum Graecum;</hi> before thou feedeſt thy fury, re<g ref="char:EOLhyphen"/>cite with thy ſelfe the Greeke Alphabet; as if hee ſhould have ſayd, ſing to thy paſſion as Nurſes to their babes, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, haſte not, cry not, and anon I will content thee.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:39"/>
+               <head>An envious Man.</head>
+               <p>AN envious man ſtands alwayes in Diametricall oppoſition<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Ariſtot. Rhet. l. 2. c. 10.</note> to a good man. <hi>Ariſtotle</hi> calles him, <hi>Antagoniſta fortunatorum,</hi> according to his definition. Envie <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a certaine moleſtation and griefe for the appa<g ref="char:EOLhyphen"/>rent felicity of others; which, like a Feaver Hec<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icke, conſumes a man: and becauſe of ſome<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing he hath not, hee is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rought to nothing; ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat hee wanteth as well what he hath, as what he
+<pb facs="tcp:171542:40"/> hath not. <hi>Vicinitas eſt</hi>
+                  <note place="margin">Franc. Petrarch.</note> 
+                  <hi>proſperitas invidi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſunt parentes,</hi> neerneſſe and proſperity are the happy parents of this monſter, which is ſquint-ey'd, that ſees not farre off, and neere hand ſees too per<g ref="char:EOLhyphen"/>verſly with the Specta<g ref="char:EOLhyphen"/>cles of a wicked imagi<g ref="char:EOLhyphen"/>nation. The eye is the ſeat of this ſoare, and a bleſſing eſpied through this window, killeth the envious man like the Ba<g ref="char:EOLhyphen"/>ſiliske. <hi>Intabeſcitque vi<g ref="char:EOLhyphen"/>dendo,</hi> the more hee ſees, the more he ſighes, alto<g ref="char:EOLhyphen"/>gether eſteeming his neighbours weale his woe, and others glory his griefe. <hi>Parum eſt ſi ipſe
+<pb facs="tcp:171542:40"/> ſit foelix, niſi alter fuerit infoelix;</hi> hee cannot put on the white robes of fe<g ref="char:EOLhyphen"/>licity, except another mournes in the ſable weeds of adverſity; nei<g ref="char:EOLhyphen"/>ther can hee ſaile happily, except fell Boreas aſ<g ref="char:EOLhyphen"/>ſault others. He delights like flies, in the wounds of others, and that which is a Tragedy to others, is to him a Comedy; uſing like the Bragmans, to laugh when hee ſhould weepe, and to weepe when hee ſhould laugh. The bright Sunne of o<g ref="char:EOLhyphen"/>ther mens proſperity, beating upon the Dung<g ref="char:EOLhyphen"/>hill of a dejected baſe ſpi<g ref="char:EOLhyphen"/>rit, engendreth this ſnake,
+<pb facs="tcp:171542:41"/> which if it bite a man, he inſtantly ſwelles with much poyſon: but like the Serpent <hi>Porphyrius</hi> wanting teeth and power to vent his venome, hee hurts himſelfe moſt. <hi>Vt Aetna ſeipſum, ſic ſe non alios, invidus igne coquit.</hi>
+               </p>
+               <p>The envious man is no Phyſitian to himſelfe: for by his pining and repi<g ref="char:EOLhyphen"/>ning, hee burnes up his bloud in the fornace of hatred: ſo that his body hath juſt cauſe to ſue his ſoule on an action of Di<g ref="char:EOLhyphen"/>lapidation. Envie is the meere Megaera which continually torments his ſoule. <hi>Titiique vultur in<g ref="char:EOLhyphen"/>tus qui ſemper lacerat co<g ref="char:EOLhyphen"/>meſtque
+<pb facs="tcp:171542:41"/> mentem.</hi> As poyſon is life to a Ser<g ref="char:EOLhyphen"/>pent, but death to a man; and ſpettle life to a man, but death to a ſerpent: ſo the virulent ſuſtenance that the envious man lives on, is death to a good man; and a good mans <hi>bene eſſe,</hi> is the en<g ref="char:EOLhyphen"/>vious mans <hi>non eſſe. Bion</hi>
+                  <note place="margin">Pallor in ore ſe<g ref="char:EOLhyphen"/>det macies in corpore toto. Metam.</note> beholding ſuch a one, (with a pale face and lean body, whoſe heart was full of gall, &amp; his tongue tipt with poyſon) very ſorrowfull, asked him, ſaying: Whether hath ſome evill befallen thee, or ſome good to thy neighbour? As the ve<g ref="char:EOLhyphen"/>nemous Beetle Cantha<g ref="char:EOLhyphen"/>rides,
+<pb facs="tcp:171542:42"/> delights to con<g ref="char:EOLhyphen"/>ſume the fineſt wheat, and nip the faireſt flow<g ref="char:EOLhyphen"/>ers: ſo envie invades the beſt men, and thoſe that excell in any good, whe<g ref="char:EOLhyphen"/>ther of minde, body or fortune. Therefore <hi>The<g ref="char:EOLhyphen"/>miſtocles</hi> being but of tender age, ſaid, Hee had effected as yet nothing excellent and praiſe-wor<g ref="char:EOLhyphen"/>thy, becauſe the darts of envie flew not about his eares. As thoſe eyes are acccounted bewitching; <hi>qui gemin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m habent pu<g ref="char:EOLhyphen"/>pillam, ſicut Illyrici,</hi> which have double-ſighted eyes: So the double<g ref="char:EOLhyphen"/>ſighted eyes of the envi<g ref="char:EOLhyphen"/>ous, bewitch his under<g ref="char:EOLhyphen"/>ſtanding,
+<pb facs="tcp:171542:42"/> whereby hee miſconceives and miſ<g ref="char:EOLhyphen"/>interprets another mans felicity and fortune, be<g ref="char:EOLhyphen"/>holding it with an evill eye, as in a multiplying glaſſe, that makes good things appeare great things, according to the Poet:</p>
+               <q>
+                  <l>Fertilior ſeges eſt alienis<note place="margin">Ovid.</note>ſemper in agris</l>
+                  <l>Vicin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mque pecus grandi<g ref="char:EOLhyphen"/>us uber habet.</l>
+               </q>
+               <p>Hee prints diſcontent in his countenance, if a<g ref="char:EOLhyphen"/>nother atchieve that ho<g ref="char:EOLhyphen"/>nour which is beyond his reach. <hi>Hunc atque hunc ſuperare laborat.</hi> Hee
+<pb facs="tcp:171542:43"/> ſtrives to excell all, though he is excelled by all: if hee undertakes a great worke, which is a<g ref="char:EOLhyphen"/>bove the ſpheare of his capacity, hee will give leave to none other, like <hi>Aeſops</hi> dogge in the man<g ref="char:EOLhyphen"/>ger. Like the ſnake in the Apologue, that l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cked off her owne tongue, when thinking nothing ſhould have teeth but her ſelfe, ſhee would have licked the file plaine which ſhee found with teeth at the Smiths forge; he drinkes the moſt part of his ve<g ref="char:EOLhyphen"/>nome, and hurts himſelfe ſeeking to hurt others; yea, he will hurt himſelfe ſo that hee may hurt o<g ref="char:EOLhyphen"/>thers.
+<pb facs="tcp:171542:43"/> 
+                  <hi>Simul peccat &amp; plectitur: expedita j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſti<g ref="char:EOLhyphen"/>tia.</hi> An expedite kinde of juſtice, when puniſhment treads upon the heele of ſinne.</p>
+               <p>For my part, I'le ever embrace <hi>Pallas,</hi> who as the Poets fain, ſtil knocks at the doore of envie, that dwels <hi>in vallibus imis,</hi> and ſo ſhe keeps her from ſleeping: whom being now ſtirred and awakned by <hi>Pallas,</hi> I leave with him that loves her, till ſhe transforme him to a meere <hi>Aglauros,</hi> as voyd of ſenſe as of humanity.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:44"/>
+               <head>A Fortune-teller.</head>
+               <p>A Fortune-teller is an idle adle-brain'd fel<g ref="char:EOLhyphen"/>low, who takes upon him as if hee were a bawd to the celeſtiall bodies, by the conjunctions of pla<g ref="char:EOLhyphen"/>nets, and poſition of ſtarres, to fore-tell the ruines of publike weales, to calculate nativities, and to fore-tell ſtrange e<g ref="char:EOLhyphen"/>vents. He pleads a deepe inſight into their ſecrets, as if he were their Mid<g ref="char:EOLhyphen"/>wife; or as if, like the Phyſitian, he had caſt the urine of the clouds, and
+<pb facs="tcp:171542:44"/> knew where the fit held them, that it could nei<g ref="char:EOLhyphen"/>ther raine, nor haile, nor ſnow, till ſome ſtarre had made him her ſecretary. This <hi>Aeruſcator,</hi> that ſtrives to get mony by ill meanes, tels the fortunes of others uncertainly, that hee might encreaſe his owne certainly: if hee tell any thing that comes to paſſe, it is but as if a blinde Archer ſhould hit the Marke. <hi>Diogenes</hi> ſeeing a fellow (that ſhe<g ref="char:EOLhyphen"/>wed tables of the ſtarres openly) ſay, <hi>Hae ſunt ſtellae errantes,</hi> Theſe are the wandring ſtarres, anſwe<g ref="char:EOLhyphen"/>red, <hi>Ne mentiaris, bone vir,</hi> doe not ſlander the
+<pb facs="tcp:171542:45"/> ſtarres, good man, that erre not, but thy ſelfe on<g ref="char:EOLhyphen"/>ly doſt erre, by thy vaine ſpeculations of the ſtars. The Tale-tell ſtar-gazers and Chronologers, are ſo different among them<g ref="char:EOLhyphen"/>ſelves, that it is truly ſaid of them, <hi>Inter horologia magis convenit quam inter exactos temporum calculatores.</hi> The clockes agree better then them, but to make amends for that, their opinions as lines of the ſame cir<g ref="char:EOLhyphen"/>cumference, are coinci<g ref="char:EOLhyphen"/>dent in falſhood as their center. <hi>Cicero</hi> mentions it for the Chaldean fol<g ref="char:EOLhyphen"/>ly, that they would have<note place="margin">De divi<g ref="char:EOLhyphen"/>nat. l. 2.</note> 
+                  <hi>Omnes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>odem tempore or<g ref="char:EOLhyphen"/>tos,
+<pb facs="tcp:171542:45"/> eadem conditione naſ<g ref="char:EOLhyphen"/>ci:</hi> all that were born to<g ref="char:EOLhyphen"/>gether, to be borne to the ſame condition. But if that bee true, how came <hi>Romulus</hi> and <hi>Remus,</hi> who (if wee may beleeve it) were both borne of a Veſtal (defiled by a ſoul<g ref="char:EOLhyphen"/>dier) at one birth, to ſuch various fortunes? Was all the world, drowned in the deluge, under one ſtarre? Or all Souldiers ſlaine together in one field, under the ſame ſignes? The Aſtrolo<g ref="char:EOLhyphen"/>gers aſſertion is, that all borne under the ſigne <hi>A<g ref="char:EOLhyphen"/>quarius,</hi> would bee Fiſh<g ref="char:EOLhyphen"/>ers: but in <hi>Getulia</hi> there are no fiſhers; was never
+<pb facs="tcp:171542:46"/> any there born under the ſigne <hi>Aquarius?</hi>
+               </p>
+               <p>Surely all Aſtrologers are <hi>Erra Paters</hi> diſciples, and the Divels profeſ<g ref="char:EOLhyphen"/>ſors, telling their opini<g ref="char:EOLhyphen"/>ons in ſpurious aenigma<g ref="char:EOLhyphen"/>ticall doubtfull tearmes, like the Oracle at Del<g ref="char:EOLhyphen"/>phos. What a blinde do<g ref="char:EOLhyphen"/>tage, and ſhameleſſe im<g ref="char:EOLhyphen"/>pudence is in theſe men, who pretend to know more then Saints and Angels? Can they read other mens fates by thoſe glorious characters the ſtarres, being ignorant of their owne? <hi>Qui ſibi neſcius, cui praeſcius? Thracias</hi> the Soothſayer, in the nine years drought
+<pb facs="tcp:171542:46"/> of Aegypt, came to <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſiris</hi> the Tyrant;</p>
+               <q>—Monſtrat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> piar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hoſpitis effuſo ſanguine poſſe lovem,</q>
+               <p>And told him, that <hi>Iupi<g ref="char:EOLhyphen"/>ters</hi> wrath might bee ex<g ref="char:EOLhyphen"/>piated by ſacrificing the blood of a ſtranger. The Tyrant asked him whe<g ref="char:EOLhyphen"/>ther hee was a ſtranger: he told him he was.</p>
+               <lg>
+                  <l>
+                     <hi>Illi Buſiris; fies Iovis hoſtia primus,</hi>
+                  </l>
+                  <l>
+                     <hi>Inquit, &amp; Aegypto tu da<g ref="char:EOLhyphen"/>his hoſpes aquam.</hi>
+                  </l>
+                  <l>Thou, quo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h <hi>Buſiris,</hi> ſhalt that ſtranger bee,</l>
+                  <l>Whoſe bloud ſhall we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our ſoyle by deſtinie.</l>
+               </lg>
+               <p>If all were ſerved ſo,
+<pb facs="tcp:171542:47"/> we ſhould have none that would relye ſo confi<g ref="char:EOLhyphen"/>dently on the falſhood of their Ephemerides, and in ſome manner ſhake off all divine providence, making themſelves e<g ref="char:EOLhyphen"/>quall to God: <hi>Tolli enim</hi>
+                  <note place="margin">Au. Gel. l. 14. c. 1.</note> 
+                  <hi>quod maximum inter De<g ref="char:EOLhyphen"/>os atque homines affert, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> homines qu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>res poſt fu<g ref="char:EOLhyphen"/>turus praenoſcerent.</hi> The greateſt difference be<g ref="char:EOLhyphen"/>tween God and man is taken away, if man ſhould fore-know future events. Theſe propheſie<g ref="char:EOLhyphen"/>uſurpers, who aſcribe all things to the influence of conſtellations, ſhoot at the ſtarres, but aime at themſelves, according to
+<pb facs="tcp:171542:47"/> that of <hi>Accius: Nihil, in<g ref="char:EOLhyphen"/>quit, credo Auguribus qui aure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> verbis divitant alie<g ref="char:EOLhyphen"/>nas, ſuas ut auro locuple<g ref="char:EOLhyphen"/>tent Domos.</hi> I doe no<g ref="char:EOLhyphen"/>thing credit the Sooth<g ref="char:EOLhyphen"/>ſayers, who enrich other mens eares with words, that they may enrich their owne houſes with gold.</p>
+               <p>Beleeve not the Impo<g ref="char:EOLhyphen"/>ſtures of theſe juggling companions: they fore<g ref="char:EOLhyphen"/>tell proſperous things, or not proſperous: Firſt, they foretell proſperous, and faile, thou art made miſerable by expecting them in vaine. If they foretell unfortunate e<g ref="char:EOLhyphen"/>vents, and deceive thee,
+<pb facs="tcp:171542:48"/> thou art made miſerable by fearing them in vain. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe things they forete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do happen, being not pro<g ref="char:EOLhyphen"/>ſperous, thou art made miſerable becauſe they come to paſſe. If they promiſe auſpicious fate to thee, and have no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paid it, thy hope will weary thee, and the long expectation thereof, will prove miſera<g ref="char:EOLhyphen"/>ble to thee.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:48"/>
+               <head>Fortune.</head>
+               <p>FOrtune is ſo conſtant in inconſtancy, that the beſt <hi>Amulius</hi> cannot portray her in one co<g ref="char:cmbAbbrStroke">̄</g>ſtant ſhadow, neereſt reſem<g ref="char:EOLhyphen"/>bling the counterfeit that <hi>Praxiteles</hi> made for <hi>Flo<g ref="char:EOLhyphen"/>ra,</hi> before the which if one ſtood directly, it ſee<g ref="char:EOLhyphen"/>med to weep; if on the left ſide, to laugh; if on the other ſide, to ſleepe. <hi>Fortuna amica varietati conſtantiam reſpuit,</hi> ſaith the heathen Orator: Wherefore I cannot but commend the pithy
+<pb facs="tcp:171542:49"/> anſwer of <hi>Apelles,</hi> that cunning painter, who be<g ref="char:EOLhyphen"/>ing asked why he painted Fortune ſitting, anſwered readily, <hi>Quiae ſtare loc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">Stobaeus.</note> 
+                  <hi>neſcit,</hi> becauſe ſhee is ſo unſtable, knowing not how to ſtand conſtant: otherwiſe he commonly painted her ſitting upon a Globe, blinde, and tur<g ref="char:EOLhyphen"/>ned by every puffe of winde. <hi>Nihil enim eſt tam contrarium rationi &amp; conſtantia quam fortuna.</hi> For nothing is ſo contra<g ref="char:EOLhyphen"/>ry to right reaſon and conſtancie, as Fortune, that is winged with the feathers of Fickleneſſe. <hi>Nil equ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dem durare d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u</hi>
+                  <note place="margin">Ovid Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>ſub imagine eadem credi<g ref="char:EOLhyphen"/>derim.
+<pb facs="tcp:171542:49"/> Ima permutat bre<g ref="char:EOLhyphen"/>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">Sen. Thy<g ref="char:EOLhyphen"/>eſt.</note> 
+                  <hi>hora ſummis.</hi> Nothing continues long under the ſame forme: in an houre <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings are turned topſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urvie. The loweſt va<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our becomes the high<g ref="char:EOLhyphen"/>eſt cloud, and the higheſt cloud the loweſt vapour<g ref="char:punc">▪</g> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſoſtris,</hi> an illuſtrious and happy King of Aegypt, famous for abundance of wealth and earthly trea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure, ſubdued many Na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions under the yoake of<note place="margin">Ph. Me<g ref="char:EOLhyphen"/>lancthon. l. 3. Chron</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ſlavery. He was wont <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o bee carried in a Chari<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t adorned with gold &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retious ſtones, by foure Kings whom he had con<g ref="char:EOLhyphen"/>quered: and when one of them often regarding
+<pb facs="tcp:171542:50"/> the wheele of the Cha<g ref="char:EOLhyphen"/>riot, contemplated with himſelfe, was asked by <hi>Seſoſtris,</hi> why hee did ſo much behold the moti<g ref="char:EOLhyphen"/>on of the wheele? In beholding (ſaid hee) the volubility of the wheele, wherein the loweſt are ſoone higheſt, and the higheſt loweſt, I per<g ref="char:EOLhyphen"/>ceive the inſtability of Fortune, who dejecteth thoſe that are highly ad<g ref="char:EOLhyphen"/>vanced, and advanceth thoſe that are low preſ<g ref="char:EOLhyphen"/>ſed. Whereupon <hi>Seſo<g ref="char:EOLhyphen"/>ſtris</hi> would never after exerciſe his inhumane cruelty againſt any cap<g ref="char:EOLhyphen"/>tive King in that kinde. Remembring Perchance
+<pb facs="tcp:171542:50"/> that of <hi>Herodotus:</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Let no man thinke to e<g ref="char:EOLhyphen"/>rect Caſtles or faire Mo<g ref="char:EOLhyphen"/>numents in the aire, or build upon the uncertaine and ſhort proſperous windes of favour-bloo<g ref="char:EOLhyphen"/>ming Fortune high and huge hopes, as the Tra<g ref="char:EOLhyphen"/>gedian excellently ad<g ref="char:EOLhyphen"/>moniſheth:</p>
+               <q>
+                  <l>Nemo confidat nimium ſe<g ref="char:EOLhyphen"/>cundis,<note place="margin">Sen. Trag.</note>
+                  </l>
+                  <l>Nemo deſperet mel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ora lapſis.</l>
+               </q>
+               <p>Let no man thinke to give Fortune the defi<g ref="char:EOLhyphen"/>ance
+<pb facs="tcp:171542:51"/> in proſperity, neither let any deſpaire of better things in adverſity. <hi>Ma<g ref="char:EOLhyphen"/>rius</hi>
+                  <note place="margin">Tacitus.</note> begged in the ſixth Conſulship, governed in the ſeventh. <hi>Scipio Afri<g ref="char:EOLhyphen"/>ca</hi> of a Conſull became a Captive, of a Captive a Conſull. To be haugh<g ref="char:EOLhyphen"/>ty therefore if our ſhip ſaile <hi>bonis avibus,</hi> on the calme ſea of proſperity, is vaine glory void of wiſedome: for the grea<g ref="char:EOLhyphen"/>ter fortune is, the leſſe is ſhe ſecure. So to bee o<g ref="char:EOLhyphen"/>vermuch dejected, be<g ref="char:EOLhyphen"/>cauſe the ſhip of all our treaſure ſailing <hi>malis a<g ref="char:EOLhyphen"/>vibus,</hi> on the tempeſtu<g ref="char:EOLhyphen"/>ous ſeas of adverſe fate, bee wracked againſt the
+<pb facs="tcp:171542:51"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raggy Clifts of misfor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>une, doth argue our wiſedome was our ri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hes, and in loſing one, we loſe both. He that is fixed ſtar in wiſedome, will not prove a meteor compoſed of vanity, nei<g ref="char:EOLhyphen"/>ther ſhall any interpoſed earth eclipſe his glory. When <hi>Fortuna opes an<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erre,</hi>
+                  <note place="margin">Senece.</note> 
+                  <hi>non animam poteſt.</hi> Fortune may take away his outward riches, not his ſoule. A prudent pro<g ref="char:EOLhyphen"/>vident man ſtill expects <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he worſt; and as it is ſaid of <hi>Socrates,</hi> his minde is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lwayes equall, ſtill pre<g ref="char:EOLhyphen"/>pared againſt any boy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terous blaſts and ſtorms of malignant Fortune.
+<pb facs="tcp:171542:52"/> And being not a ſervant to this uncertaine Lady, hee thinkes himſelfe not unhappy if ſhee frownes on him, nor more happy if ſhee ſmiles. <hi>Zen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> having loſt his outward goods by ſhip-wracke; <hi>Immobili vultu euge (in<g ref="char:EOLhyphen"/>quit) fortuna quam oppor<g ref="char:EOLhyphen"/>tune nos ad pallio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um rede<g ref="char:EOLhyphen"/>giſti.</hi> For as he that ſtruck <hi>Iaſon</hi> on the ſtomacke, thinking to kil kim, brake his impoſtume and cure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him: ſo this ſtep mothe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fortune ſtrikes at <hi>Zen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> intending to kill him, and to make his heart evapo<g ref="char:EOLhyphen"/>rate into ſighes, by rea<g ref="char:EOLhyphen"/>ſon of this tempeſt (drowning that which
+<pb facs="tcp:171542:52"/> would have drowned him) but in ſtead of a ſword ſhe applied a ſalve, breaking the impoſtuma<g ref="char:EOLhyphen"/>tion of vaine glory, and outward pleaſure, grow<g ref="char:EOLhyphen"/>ing in his heart, and fram'd his minde a<g ref="char:EOLhyphen"/>gaine to the ſtu<g ref="char:EOLhyphen"/>dy of Philo<g ref="char:EOLhyphen"/>ſophy.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:53"/>
+               <head>Ambition.</head>
+               <p>AMbition is a vice op<g ref="char:EOLhyphen"/>poſite to Magnani<g ref="char:EOLhyphen"/>mity, being an immode<g ref="char:EOLhyphen"/>rate deſire of honou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without merit. It is the proud ſoules dropſie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when a draught of Ho<g ref="char:EOLhyphen"/>nour cauſeth a drough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Honour. One ad<g ref="char:EOLhyphen"/>vancement gives a freſh provocation to another. Hee is not ſo ſoon laid o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the bed of honour, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee dreames of a high preferment. His deſires are as high as the ſtarres, his deſerts lower then
+<pb facs="tcp:171542:53"/> the earth; hee'l willingly ſtay on no ſtaire if there be a higher, &amp; yet aſcen<g ref="char:EOLhyphen"/>ded to the top, want of highneſſe is his malady. <hi>Alexander</hi> having con<g ref="char:EOLhyphen"/>quered all Aſia, and be<g ref="char:EOLhyphen"/>ing ſet on the pinacle of imcomparable dignity on earth, hearing <hi>Aha<g ref="char:EOLhyphen"/>parchus</hi> diſpute of in<g ref="char:EOLhyphen"/>numerable worlds, ſalt teares immediatly diſtil<g ref="char:EOLhyphen"/>led from the Limbecke of his proud ſorrowfull heart, becauſe hee had not yet conquered one world. <hi>Alexander mun<g ref="char:EOLhyphen"/>do magnus, mundus Alex<g ref="char:EOLhyphen"/>andro parvus. Alexander</hi> though the greateſt Mo<g ref="char:EOLhyphen"/>narch in the world</p>
+               <pb facs="tcp:171542:54"/>
+               <p>(<hi>Imperium Oceano fa<g ref="char:EOLhyphen"/>mam</hi>
+                  <note place="margin">Virg. 2. Aene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</note> 
+                  <hi>qui terminat aſtris,</hi> Who terminates his Em<g ref="char:EOLhyphen"/>pire with the remoteſt ſeas, &amp; his fame with the Poles) thought the world a Mole-hil, being too nar<g ref="char:EOLhyphen"/>row a ſtage for the large Scene of his ambition,</p>
+               <q>
+                  <l>Vnus pellaeo juveni non ſufficit orbis,<note place="margin">Juven. Sat. 10.</note>
+                  </l>
+                  <l>Aeſtuat infoelix anguſto limite mundi.</l>
+               </q>
+               <p>His heart being a Tri<g ref="char:EOLhyphen"/>angle could not be filled with the world being a Circle. An ambitious minde like <hi>Tullies</hi> ſtrange ſoil, much rain of promo<g ref="char:EOLhyphen"/>tion falling from his hea<g ref="char:EOLhyphen"/>ven the Court, makes him ſtill as dry as duſt.
+<pb facs="tcp:171542:54"/> The Court is the Sea wherin he deſires to fiſh, and the ſtarry firmament wherein hee deſires to ſhine; yet an old Courtier being asked what hee did at Court, anſwered, I doe nothing but undoe my ſelfe: And I can ſay this of other Suitors, If ten be diſpatched, ninety are deſpighted. Aſpiring mindes, whiles they be<g ref="char:EOLhyphen"/>hold the ſtarres with <hi>Thales,</hi> fall into the ditch. <hi>Agrippina, Nero's</hi> mo<g ref="char:EOLhyphen"/>ther, being told by an A<g ref="char:EOLhyphen"/>ſtrologer, that her ſonne ſhould be Emperour, but his Orient ſhould bee her Occident, anſwered, <hi>Oc<g ref="char:EOLhyphen"/>cidat</hi>
+                  <note place="margin">Tacitus l. 14. An.</note> 
+                  <hi>dum imperet:</hi> Let
+<pb facs="tcp:171542:55"/> him kill me ſo hee may get the Empire. <hi>Pyrr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi>
+                  <note place="margin">Plu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arch. ejus vita.</note> King of the <hi>Epirotes,</hi> ſaid, If hee had conque<g ref="char:EOLhyphen"/>red Rome, Italy, Sicily, Africa, Carthage, and all Greece he could be fro<g ref="char:EOLhyphen"/>licke with his friends: but ſurely had he atchie<g ref="char:EOLhyphen"/>ved the triumphant vi<g ref="char:EOLhyphen"/>ctory of all theſe nations, blinde ambition would not have ſuffered him to reſt; but hee ſtill would have adored Fortunes bright Sun, deſiring to in<g ref="char:EOLhyphen"/>creaſe, like the new Moone, <hi>donec t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tam cir<g ref="char:EOLhyphen"/>cumferentiam</hi>
+                  <note place="margin">The new Moones Mot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o.</note> 
+                  <hi>imple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> till he fill the whole circum<g ref="char:EOLhyphen"/>ference, not conſidering that the full Moon ſuffers
+<pb facs="tcp:171542:55"/> an Eclipſe: Camelion<g ref="char:EOLhyphen"/>like<note place="margin">Plin. Nat.</note> they have nothing within, but large lungs, windy oſtentation, think<g ref="char:EOLhyphen"/>ing with the bladder of their blowne hopes, and windy vapours of ſelfe<g ref="char:EOLhyphen"/>love, to ſwim (with <hi>An<g ref="char:EOLhyphen"/>tiochus</hi>) upon the earth, and to walke on the ſea. An ambitious man of a Farmer would be a Yeo<g ref="char:EOLhyphen"/>man, of a Yeoman a Gentleman, of a Gentle<g ref="char:EOLhyphen"/>man a Squire, or elſe hee is out of ſquare; of a Squire a Knight, and no Gentleman. Once knigh<g ref="char:EOLhyphen"/>ted the world muſt count him a Count; and then hee rides all upon the Spurre (Policie being his
+<pb facs="tcp:171542:56"/> Poſt horſe) till he come to None-ſuch. He would bee a Peerleſſe Peere wil<g ref="char:EOLhyphen"/>ling to have no Aequator in the terreſtriall Globe: his greateſt plague is a Rivall. The impulſive cauſe of the civill warres between <hi>Pompey</hi> and <hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> was, <hi>ambitio &amp; ni<g ref="char:EOLhyphen"/>mia foelicitas</hi> (as <hi>Florus</hi>) the one not enduring an equall, the other a ſupe<g ref="char:EOLhyphen"/>riour.</p>
+               <q>
+                  <l>—Stimulos dedit aemu<g ref="char:EOLhyphen"/>la<note place="margin">Lucan. l. 1.</note> virtus,</l>
+                  <l>Nec quemquam jam ferre poteſt Caeſarve priorem, Pompeiuſve parem.</l>
+               </q>
+               <p>It is an eſſentiall pro<g ref="char:EOLhyphen"/>perty of a ſwelling and
+<pb facs="tcp:171542:56"/> proud boaſting perſon, not to conſider whom he excelleth himſelfe, but who excelleth him. Joy doth not ſo much dilate his heart to ſee many af<g ref="char:EOLhyphen"/>ter him, as grief contracts it to ſee any before him: he ſeldome or never loo<g ref="char:EOLhyphen"/>keth backe, but alwayes forward; and when hee ſees himſelfe to bee For<g ref="char:EOLhyphen"/>tunes ſingular and grea<g ref="char:EOLhyphen"/>teſt favourite (with <hi>Alex<g ref="char:EOLhyphen"/>ander</hi>) hee conceits his immortality, and cauſeth Temples &amp; Altars to be erected to his name, ma<g ref="char:EOLhyphen"/>king himſelf a God with man, but a man with God. <hi>Sapor</hi> a Perſian King, intituled himſelfe
+<pb facs="tcp:171542:57"/> 
+                  <hi>Rex Regum, frater Solis &amp; Lunae, particeps Syde<g ref="char:EOLhyphen"/>rum &amp;c.</hi> Kings of Kings, brother to the Sunne and Moone, partner with the ſtarres. O more then ſtu<g ref="char:EOLhyphen"/>pid Ambition! Art thou King of Kings, when not King of thy ſelfe? Art thou ſo lunaticke as to i<g ref="char:EOLhyphen"/>magine thy ſelfe brother to the Sunne and Moon? Art thou ſuch a Planet or wandring Starre of invincible ignorance, as to write thy ſelfe a part<g ref="char:EOLhyphen"/>ner with the Starres? A falling ſtarre and a fiery meteor ſhalt thou bee. Thou ſhalt complaine of Fortune with <hi>Tiberius,</hi> that having ſet thee in ſo
+<pb facs="tcp:171542:57"/> high a place, ſhee did not vouchſafe thee a Ladder to come downe againe. They that are advanced to high degree of ho<g ref="char:EOLhyphen"/>nour,<note place="margin">Senec. Ep.</note> 
+                  <hi>Non in praerupto il<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c ſtant, ſed in lubric<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> have a ſlippery and dan<g ref="char:EOLhyphen"/>gerous ſtation. <hi>Tolluntur in altum ut lapſu graviora ruant.</hi> They are toſſed up into the aire by For<g ref="char:EOLhyphen"/>tunes ſling, to receive the greater fall; and be<g ref="char:EOLhyphen"/>in ſet up as Buttes, they cannot bee without the quiver of feares. <hi>Feriunt ſummos fulgura montes,</hi> The high mountaines are ſmitten with the light<g ref="char:EOLhyphen"/>ning, when the valleyes are ſecure. The tall Ce<g ref="char:EOLhyphen"/>dars
+<pb facs="tcp:171542:58"/> and lofty Pines are ſhaken with the Aeolian ſlaves, when the low ſhrubs ſtand firme. The Sunne that riſes in a gray and ſullen morne, ſets cleareſt: Ambitious mindes in the dawne of Fortune breake ſo glo<g ref="char:EOLhyphen"/>riouſly, meet with a ſtorm at noon, or a cloud at night, which will not meerly eclipſe, but extinguiſh their glory.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:58"/>
+               <head>The Common People.</head>
+               <p>THe rude multitude is an untamed monſter of many heads, locked up in the darkſome dun<g ref="char:EOLhyphen"/>geon of ignorance and inconſtancy, more in<g ref="char:EOLhyphen"/>fected with errors then <hi>Augeus</hi> ſtable was filled with ordure. <hi>Vulgus ex veritate pauca ex opinione multa aeſtimat.</hi> The com<g ref="char:EOLhyphen"/>mon people judge of all things as they ap<g ref="char:EOLhyphen"/>peare to them, not as they are in themſelves; being led by the erring eyes of their clouded in<g ref="char:EOLhyphen"/>tellects,
+<pb facs="tcp:171542:59"/> ſeduced by falſe opinions <hi>à vero,</hi> and di<g ref="char:EOLhyphen"/>verting their wils <hi>à bono.</hi> They play as did the fond Satyr, who eſpying the fire that <hi>Prometheus</hi> ſtole from heaven, would needs kiſſe it, becauſe it gliſtered in his eyes. Like white clouds, or deawy exhalations, they are car<g ref="char:EOLhyphen"/>ried hither and thither, by every winde. Now they flow with honied ſalutations, placing you in the ſtar-ſpangled Ca<g ref="char:EOLhyphen"/>nopy of heaven: Anon their gall overflows with bittter words, and railing accuſations, kicking thee with contempt into <hi>Vul<g ref="char:EOLhyphen"/>cans</hi> Forge. The winde
+<pb facs="tcp:171542:59"/> of giddineſſe doth ſo poſſeſſe them, that an opi<g ref="char:EOLhyphen"/>on now received, is ex<g ref="char:EOLhyphen"/>pelled by cleane contrary Ideaea's of their ſeduced phantaſies. <hi>Fluctu<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ma<g ref="char:EOLhyphen"/>gis</hi>
+                  <note place="margin">Sen. Trag.</note> 
+                  <hi>mobile vulgus.</hi> They ebbe and flow oftner then <hi>Euripus.</hi> As the childes love, ſo the peo<g ref="char:EOLhyphen"/>ples commendations got<g ref="char:EOLhyphen"/>ten and forgotten in an houre. It is better to bee praiſe-worthy, then to be praiſed by them, when they honour the worſt and condemne the beſt; being in the eſtimation of wiſe men as the ſenſe in reſpect of reaſon, bru<g ref="char:EOLhyphen"/>tiſh. <hi>Stultus honorem ſaepè dat indignis. Socrates</hi> in
+<pb facs="tcp:171542:60"/> 
+                  <hi>Plato</hi> ſuſpected that ever<g ref="char:EOLhyphen"/>more to bee bad, which the vulgar extolled for good. And <hi>Pliny</hi> gave this rule in the Schoole, That he decla<g ref="char:EOLhyphen"/>med worſt who was ap<g ref="char:EOLhyphen"/>plauded moſt. Their knowledge is opinions, and their wit is never to ſwim againſt the ſtream, nor ſet up ſaile againſt a<g ref="char:EOLhyphen"/>ny windy rumors; which makes them like Cy<g ref="char:EOLhyphen"/>clops, roaring without his eye, attempt things with great tumult and no judgement. Their inqui<g ref="char:EOLhyphen"/>ſition doth never ſound the depth of matters, but their judgement follows the ſound of words. In
+<pb facs="tcp:171542:60"/> their actions there is no harmony: for they are too flat or too ſharpe, ad<g ref="char:EOLhyphen"/>mitting no mediocritie. Democracie is their am<g ref="char:EOLhyphen"/>bition; and as in the Ser<g ref="char:EOLhyphen"/>pent <hi>Amphisbaena</hi> to have the head at the taile, would bee a meere Anar<g ref="char:EOLhyphen"/>chy. <hi>Laertes</hi>-like they have more care of their rurall affaires then them<g ref="char:EOLhyphen"/>ſelves in the better parts of themſelves their ſouls. Much like the fellow, who vowing to <hi>Mercury</hi> halfe of what hee found; finding Almonds, pre<g ref="char:EOLhyphen"/>ſented onely the ſhelles upon the Altar. If they affoord God a ſhell in Religion, it is to get the
+<pb facs="tcp:171542:61"/> kirnell themſelves: As it is ſaid of the Scythians, that they once ſmothered their Gods with earth, moſt of them ſeeme al<g ref="char:EOLhyphen"/>moſt to ſmother their godlineſſe with their worldlineſſe. They have drunke the Circean Cup of ignorance: And as <hi>Grillus</hi> being by the in<g ref="char:EOLhyphen"/>chantment of <hi>Circe,</hi> chan<g ref="char:EOLhyphen"/>ged into the forme of an Hog, refuſed to returne to the ſhape of a Man: ſo they being beaſts by ig<g ref="char:EOLhyphen"/>norance, refuſe to bee men by underſtanding. If they take head againſt a man, they run violently like a torrent, to over<g ref="char:EOLhyphen"/>throw him without law,
+<pb facs="tcp:171542:61"/> reaſon or judgement: they exclaim againſt him, making ſuch an uproare and obſtreperous noyſe, that the Frogs in <hi>Homer,</hi> (that with their noyſe would not let the God<g ref="char:EOLhyphen"/>deſſe <hi>Pallas</hi> ſleepe) croa<g ref="char:EOLhyphen"/>ked no lowder. I cannot but remember that o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>E<g ref="char:EOLhyphen"/>picurus</hi>
+                  <note place="margin">Ep. 29. ad Lucillum.</note> in <hi>Seneca: Epi<g ref="char:EOLhyphen"/>curus dicebat, Se nunquam voluiſſe placere populo. Nam quae ego ſcio, inquit, non probat populus; quae probat populus, ego neſcio. Epicurus</hi> ſayd, hee would never pleaſe the people: for (ſaith hee) what I know, that <hi>Briar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> the multitude approve not: thoſe things which win
+<pb facs="tcp:171542:62"/> the peoples approbation, I know not. And wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee might ſo ſay: for a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Philo</hi> hath it: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The vulgar ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will grow reproachfully mad againſt them tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are not on their parts, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo pleaſe them not i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their madneſſe. <hi>Phocili<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>des</hi> joynes the commo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> people with the wate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and fire in theſe words:</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <p>The common people, the water and the fire, are altogether unruly; being good ſervants, but ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> maſters. <hi>Malè imperatu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cùm regit vulgus duces</hi>
+                  <pb facs="tcp:171542:62"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith <hi>Seneca</hi> in the Tra<g ref="char:EOLhyphen"/>gedy. It might well bee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Tragedy: for cer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine I am, Democracie is Tragicall whereſoever it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. The natures and diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſitions of the common <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eople are out-ragious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd cruell, like unto them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat inhabit the North, where the clymate is ve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y cold, as <hi>Seneca</hi> the Phi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſopher ſaith: <hi>In frigora Septentrionem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vergenti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us immanſueta ingenia ſunt, ut ait Poaeta,</hi>
+               </p>
+               <q>Suc<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lima Coelo.</q>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:63"/>
+               <head>A Flatterer.</head>
+               <p>A Flatterer is Proſperi<g ref="char:EOLhyphen"/>ties ſhadow, and a falſe glaſſe to Great<g ref="char:EOLhyphen"/>neſſe, giving a falſe gloſſe to goodneſſe. He hath as much reſpect unto rich fooles, as <hi>Heliotropium</hi> hath unto the Sunne, delighting to dance as Flies in the warm Sun of proſperity. As Orators ſometimes faine another perſon to ſpeake by the figure <hi>Antonomaſia,</hi> either to avoid ſuſpition of falſhood, or the darts of envie: So the Flatterer faines many perſons prai<g ref="char:EOLhyphen"/>ſing his friend though he
+<pb facs="tcp:171542:63"/> heares none, hee tels him he is the eye of the coun<g ref="char:EOLhyphen"/>trey, when indeed hee is the eye-ſore: hee ſleekes the itching Athenian like eares of his too cre<g ref="char:EOLhyphen"/>dulous Patrons, with a ſupple Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lect, ſoothing them in any wicked inclination, playing as the unskilfull painter, who limbes deformities in rare colours, hee puts a faire title upon a foule act; with <hi>Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ton <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> his<note place="margin">In Dom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </note> Crow this bird of prey proclaimes an <hi>Omne bene,</hi>
+                  <note place="margin">P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>Magiſter a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tis, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> largitor ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er;</hi> the belly, that Maſter of Art, and giver of wit, makes him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>une his tongue to ano<g ref="char:EOLhyphen"/>thers
+<pb facs="tcp:171542:64"/> eares, his ſole ſong being <hi>Placebo,</hi> ſo long as he ſpins a golden thread on the voluble wheele of his pleaſing tongue. <hi>Hîc laudes numerat, dum ille munerat:</hi> As gifts are multiplied upon him, hee multiplies his praiſes, which are onely in his Benefactors hearing, be<g ref="char:EOLhyphen"/>ing his reflection meerly before his face; <hi>Polipus<g ref="char:punc">▪</g>
+                  </hi> like he will change him<g ref="char:EOLhyphen"/>ſelfe into any colour for his owne advantage. As the Cameleon:</p>
+               <q>
+                  <l>Et mutat faciem, vari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s<note place="margin">Alciat. Emb. 53.</note> ſumitque colores,</l>
+                  <l>Praeter rubrum vel can<g ref="char:EOLhyphen"/>didum.</l>
+               </q>
+               <pb facs="tcp:171542:64"/>
+               <p>Hee can aſſume to him<g ref="char:EOLhyphen"/>ſelfe all colours, except red and white: red ſigni<g ref="char:EOLhyphen"/>fying Modeſty, white in<g ref="char:EOLhyphen"/>nocencie. A fawning flatterer of all tame beaſts, is the worſt, as <hi>Diogenes</hi> once ſayd, And as <hi>Antiſthenes,</hi> it is better, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to bee expoſed to Crowes then Paraſites: for they devoure karkaſ<g ref="char:EOLhyphen"/>ſes, theſe living men. As the Wolfe by tickling the Aſſe, devoures him; ſo this rationall Wolfe by tickling his Patron, who becomes his prey, with light delight, and arrident applauſes, de<g ref="char:EOLhyphen"/>voures his ſubſtance in
+<pb facs="tcp:171542:65"/> praiſing his quality. He honoreth not <hi>ſe</hi> but <hi>ſua:</hi> he uſes no more crouches and cringes to him, then were made to the Aſſe that carried the Aegypti<g ref="char:EOLhyphen"/>an Goddeſſe. Riches, not the man are his Idoll; and if hee devour them, as <hi>Acteons</hi> Dogges did him: he thinkes himſelfe a cunning hunter, and compares the man to the proud Fly ſitting on the Chariot wheele, which gave out, that it was ſhee which raiſed all that duſt. Theſe Waſps doe hover about the Gally<g ref="char:EOLhyphen"/>pot no longer then there is honey in it. The flat<g ref="char:EOLhyphen"/>terer will be your Mimi<g ref="char:EOLhyphen"/>call
+<pb facs="tcp:171542:65"/> attendant, ſo long as you are his good Maſter, Hyaena-like hee will imi<g ref="char:EOLhyphen"/>tate your voyce in hope of a prey; like the Olym<g ref="char:EOLhyphen"/>pian Porch, he will eccho to your words ſeven times. <hi>Plato</hi> compares him to a Witch, which (if wee may beleeve <hi>Pli<g ref="char:EOLhyphen"/>ny</hi>) is true: for they which uſe witchcraft, kill in praiſing, wounding like thunder, the intrals, with<g ref="char:EOLhyphen"/>out any outward appea<g ref="char:EOLhyphen"/>rance. And as <hi>Antigonus</hi> once ſayd, hee is worſe then an open enemy: they who carry their eyes in<note place="margin">Pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> a box, like the Ladies of the Fairy <hi>Lamiae,</hi> and on<g ref="char:EOLunhyphen"/>ly looke into themſelves
+<pb facs="tcp:171542:66"/> by the eyes of Syco<g ref="char:EOLhyphen"/>phants (that like Adje<g ref="char:EOLhyphen"/>ctives vary caſe and gen<g ref="char:EOLhyphen"/>der with their Subſtan<g ref="char:EOLhyphen"/>tives,) are overcaſt with worſe then <hi>Cimmerian</hi> darkneſſe in their under<g ref="char:EOLhyphen"/>ſtandings. The ſpecta<g ref="char:EOLhyphen"/>cles of adulation, make the leaſt letter of a great ſhew, and ſometimes a cypher to be miſtaken for a figure. Hee is rotten at Core, like a Sodome apple. Hee is of a bad courſe, &amp; good diſcourſe. <hi>Bonus videri, noneſſe cu<g ref="char:EOLhyphen"/>pit.</hi> Hee is an apparent friend, but a reall foe: Of all ſuch friends wee may ſay as <hi>Ariſtotle</hi> frequently ſayd <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. O
+<pb facs="tcp:171542:66"/> friends, no friend. Theſe friends run away as Mice from a decaying houſe; or like the Nightingall,<note place="margin">Aelian. var. hiſt. l. 1. cap. 11.</note> they are voyce and no<g ref="char:EOLhyphen"/>thing elſe, ſinging onely in the Summer. It was the Scythians proverb, <hi>Vbi amici, ibi opes;</hi> but now the proverb may be inverted, <hi>Vbi opes, ibi a<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ci,</hi> where riches are, there theſe fained friends will be continually.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:67"/>
+               <head>A Brain-ſick Man.</head>
+               <p>A Brain-ſicke man is one (<hi>diviſus inſe, &amp; diviſus ab omnibus aliis</hi>) whoſe ſpeculative beams of knowledge both di<g ref="char:EOLhyphen"/>rect towards others, and reflected on himſelfe, are very much darkned by the foggy miſts of priva<g ref="char:EOLhyphen"/>tive and corruptive igno<g ref="char:EOLhyphen"/>rance. The optick nerves of his ſoule are ſo weak, that hee cannot diſcerne between white &amp; blacke: hee would make a very bad painter: yet his brain is ſtrangely ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke of crot<g ref="char:EOLhyphen"/>chets,
+<pb facs="tcp:171542:67"/> and toyiſh inventi<g ref="char:EOLhyphen"/>ons, <hi>Caecus amor ſui</hi> doth ſo poſſeſſe him, that <hi>Pyg<g ref="char:EOLhyphen"/>malion</hi> like, hee falles in love with an Image of his owne carving; and being beſides himſelfe, hee be<g ref="char:EOLhyphen"/>comes an idle Idoll to himſelfe. His onely joyes are in his owne toyes, like the Fiſherman in <hi>Theocritus,</hi> who ſatisfied his hunger with dreames of gold: hee is full of complacencie, and affe<g ref="char:EOLhyphen"/>cted with ſingularity. He thinkes all Conſtitutions but Cyphers and viſible nothing, if his conſent be not the figure which makes the number. Hee beholds himſelfe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a
+<pb facs="tcp:171542:68"/> multiplying glaſſe, and lookes upon others with a ſimple viſion. Hee is the onely wiſe man in his owne conceit; and it is not the leaſt part of his Rhetoricke to perſwade others to deeme him ſo too. Hee wonders why all men doe not conſult with him as an Oracle, it being his greateſt ambi<g ref="char:EOLhyphen"/>tion to bee thought as well of others as hee is of himſelfe. Hee is light<g ref="char:EOLhyphen"/>headed, and preſumes ſo much of light, that if himſelfe were ſet, our world would bee left without a Sunne, over<g ref="char:EOLhyphen"/>caſt with worſe then Aegyptian darknes, when
+<pb facs="tcp:171542:68"/> indeed hee is but a Mote, or Glow-worme, ſhining in ſome obſcure village. As one ſaid of <hi>Molon</hi> the Dwarfe, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntillus quantus?</hi> How little is hee in himſelfe, how great to himſelfe? His braines are turned like the Fannes of a Winde-mill, and his tongue moves like a Clacke: The diſquiſiti<g ref="char:EOLhyphen"/>on of a palpable truth is his Logicke, himſelfe be<g ref="char:EOLhyphen"/>ing the opponent, the anſwerer &amp; the Modera<g ref="char:EOLhyphen"/>tor. Hee hath ſo little reaſon, that hee mootes the reaſon why ſnow ſhould bee white, and not Jet. This Naturall,
+<pb facs="tcp:171542:69"/> with all his Art cannot anſwer Natures Argu<g ref="char:EOLhyphen"/>ment herein: and there<g ref="char:EOLhyphen"/>fore with <hi>Anaxagoras,</hi> hee will hold the Snow to bee blacke; where<g ref="char:EOLhyphen"/>by hee becomes conti<g ref="char:EOLhyphen"/>nually oppoſed by the clouds which utter Ar<g ref="char:EOLhyphen"/>guments in abundance againſt him. <hi>Copernicus</hi> his opinion of the earths circular motion, makes his diſtempered and Moone-changing braine ſicke of a <hi>Vertigo.</hi> Non<g ref="char:EOLhyphen"/>ſenſe and errours are ſo individuated in him, that hee is as naked of rea<g ref="char:EOLhyphen"/>ſon, as an Adamite of cloathes. I beleeve hee hath been with <hi>Menip<g ref="char:EOLhyphen"/>pus</hi>
+                  <pb facs="tcp:171542:69"/> as farre as the Moon, his talke ſavours ſo much of lunacie: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <note place="margin">Aul. Gell<g ref="char:punc">▪</g> l. 1. c. 15.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Bla<g ref="char:EOLhyphen"/>terare optimus, dicere in<g ref="char:EOLhyphen"/>eptiſsimus.</hi> Hee is beſt of all to babble, moſt un<g ref="char:EOLhyphen"/>apt to ſpeake. The con<g ref="char:EOLhyphen"/>currence of ignorance and arrogance doth ſmo<g ref="char:EOLhyphen"/>ther the cleare light of his judgement, and cor<g ref="char:EOLhyphen"/>rupts his braine the pro<g ref="char:EOLhyphen"/>per orbe of the Sunne, Underſtanding: Where<g ref="char:EOLhyphen"/>by his heaven in earth, the Soule, is moved irre<g ref="char:EOLhyphen"/>gularly, opinion being the ſole intelligence thereof: hee waxes and wanes an hundred times in a minute, as if hee had
+<pb facs="tcp:171542:70"/> got in the change of the Moone. Meere contra<g ref="char:EOLhyphen"/>dictions and Chimaera's of a reſtleſſe braine, are his Philoſophy. His troubled brain, continu<g ref="char:EOLhyphen"/>tinually fooles him; and at laſt he is loſt in a diſtracted dreame.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:70"/>
+               <head>A Scandalous Scholar.</head>
+               <p>A Scandalous Scholar is an able wicked man, like <hi>Tullies Offices,</hi> politicke but prophane; witty, not wiſe. Hee is a meere Comaedian in Re<g ref="char:EOLhyphen"/>ligion, acting goodneſſe in voyce and geſture on<g ref="char:EOLhyphen"/>ly, having all Theologi<g ref="char:EOLhyphen"/>call and morall vertues but in tearmes alone, as the Philoſophers <hi>Materia prima.</hi> It may be ſayd of him as was of <hi>Galba, In<g ref="char:EOLhyphen"/>genium Galbae, male ha<g ref="char:EOLhyphen"/>bitat,</hi>
+                  <pb facs="tcp:171542:71"/> a good inſtrument is put into an evill caſe; good wine is put in a bad veſſell. He is one where<g ref="char:EOLhyphen"/>in are drawne ſome lines and notes of able en<g ref="char:EOLhyphen"/>dowments; but being not actuated by the re<g ref="char:EOLhyphen"/>ſplendent beames of ſa<g ref="char:EOLhyphen"/>ving grace: like a Sun<g ref="char:EOLhyphen"/>diall in a cloudy day, hee is unheeded, unregarded both of God who is an immortall man, and of man who is a mortall God: he is an <hi>Ignis fatuus,</hi> a Comet which portends deluſion to others, con<g ref="char:EOLhyphen"/>fuſion to himſelfe. With <hi>Caius Gracchus</hi> he ſeemes to defend the Treaſury, himſelfe being the ſpoi<g ref="char:EOLhyphen"/>ler.
+<pb facs="tcp:171542:71"/> A Scholar ſhould be <hi>Denſior pars ſui orbis,</hi> a ſtarre giving light to them that ſit in darkneſſe, ſicke of a fatall Lethar<g ref="char:EOLhyphen"/>gie, diſpelling multitudes of opinions (which like black clouds ariſing from the <hi>Mare mortuum</hi> of lu<g ref="char:EOLhyphen"/>naticke braines, miſt the intellectuall faculty, and like reverberated blaſts, whirle about the ſpirits) being a Divine <hi>Hermes,</hi> occupied in the interpre<g ref="char:EOLhyphen"/>tation of thoſe things which tranſcend com<g ref="char:EOLhyphen"/>mon capacity. If ever he intends to kill that Py<g ref="char:EOLhyphen"/>thon ignorance, like hea<g ref="char:EOLhyphen"/>vens great ſpy, the Sunne, he muſt ſhine forth in in<g ref="char:EOLhyphen"/>tegrity
+<pb facs="tcp:171542:72"/> of life before all men, he muſt be nothing inferiour to <hi>Phoenix,</hi> who was the inſtructer of <hi>A<g ref="char:EOLhyphen"/>chilles,</hi> whom <hi>Pileus</hi> (as <hi>Hom<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> reporteth) did not chuſe meerly to be to his ſon a teacher of learning, but an enſample of good living: great learning without good living, is but matter without form incompleat, indeterminat, nothing operative in goodnes: the preaching of life is made more forcible by the good life of the preacher, <hi>Cithariſante Ab<g ref="char:EOLhyphen"/>bate tripudiant M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nachi.</hi> When the Abbot gives the muſicke of a good example, the Monkes
+<pb facs="tcp:171542:72"/> dance after him. The goodlieſt harmony is, when the Graces &amp; Mu<g ref="char:EOLhyphen"/>ſes meet together, when practice &amp; preaching kiſſe each other. Elſe like a Cothon or Laconian cup hee gives water of life to others, and keeps the mud of miſchiefe ſtill in the bottome of his heart. And whiles hee ſtrives by his preaching to cut off one head-ſtrong ſin, by his living (as <hi>Hercu<g ref="char:EOLhyphen"/>les</hi> by the Hydra's head) hee gives birth to two. Doctrine is the light, and a Religious life the Lant<g ref="char:EOLhyphen"/>horne, and the light without the Lanthorne, will be ſoone blown out
+<pb facs="tcp:171542:73"/> by the winde of malice. Like a crackt Bell, this diſſolute Preachers noiſe is heard farre enough; but the flaw which is noted in his life, marres his do<g ref="char:EOLhyphen"/>ctrine, and offends thoſe eares which otherwiſe would take pleaſure in his teaching. It is poſſi<g ref="char:EOLhyphen"/>ble that ſuch a one, even by that diſcordous noyſe may ring in others into the triumphant Church of heaven; but there is<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Hall.</note> no remedy for himſelfe, but the fire, whether for his reforming or judge<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:73"/>
+               <head>A Lawyer.</head>
+               <p>GOod Lawes were e<g ref="char:EOLhyphen"/>ſtabliſhed to ſup<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſſe all exorbitant and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>centious enormities, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o extoll and magnifie vertue and truth, building them ſo high in admira<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on and honour, that (as <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lomer</hi> in his ſwelling <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tine of fabulous Poetry <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayd of the celeſtiall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nountaine Olympus: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) their foun<g ref="char:EOLhyphen"/>dation may not bee ſha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en with the winde of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alſe witneſſe, nor under<g ref="char:EOLhyphen"/>mined
+<pb facs="tcp:171542:74"/> by the ſowre<g ref="char:EOLhyphen"/>ſweet waters of deceit. But alas! there is another Play acted, wherein Dame <hi>Lucre</hi> is the Pro<g ref="char:EOLhyphen"/>logue and the Epilogue. The Lawyer being agent and his Client Patient, according to that of our moderne Epigramma<g ref="char:EOLhyphen"/>tiſt.</p>
+               <q>
+                  <l>Ipſe tibi cauſas dicis, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <note place="margin">Owen Ep. 140. l. 2.</note> Marce Clienti</l>
+                  <l>Qui tibi Londinum, non ſi<g ref="char:EOLhyphen"/>bi portat opes.</l>
+                  <l>Certa tibi lex eſt, lis eſt in<g ref="char:EOLhyphen"/>certa Clienti:</l>
+                  <l>Tu lucri, damni certus &amp; ille ſui.</l>
+               </q>
+               <q>
+                  <l>The Lawyer pleads his own, not Clients cauſe,</l>
+                  <pb facs="tcp:171542:74"/>
+                  <l>Yet Clients money he to London drawes,</l>
+                  <l>Not for himſelfe, but for his Lawyers fees.</l>
+                  <l>Thus Lawyers get how ere the Clients leeſe.</l>
+                  <l>The law is plain, the poor mans cauſe in doubt.</l>
+                  <l>Thus Lawyers gain muſt hold the Client out.</l>
+               </q>
+               <p>A corrupt Lawyer with his<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſmooth tongue, and his eloquent ſpeech, full of flouriſhes, like the firſt letter of a Patent, to better it, and himſelfe by it, makes a bad cauſe ſeeme to be <hi>extra contro<g ref="char:EOLhyphen"/>verſiae aleam,</hi> good with<g ref="char:EOLhyphen"/>out all doubt. Hee is a falſe glaſſe, which how<g ref="char:EOLhyphen"/>ſoever
+<pb facs="tcp:171542:75"/> ill favored a man be, will ſhew a faire face<g ref="char:punc">▪</g> Thus with their falſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glaſſes and gloſſes they intangle the ſilly client, holding him faſt in their nets, till they perceive <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> clean deplumation of al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his golden feathers. A poore client among the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is as a blind ſheepe in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thicket of thornes, where hee is ſure to loſe his fleece, if not ſome of hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fleſh. Fallacy is the Lo<g ref="char:EOLhyphen"/>gicke they choppe with their Countrey attend<g ref="char:EOLhyphen"/>ants, altogether ſeducing them with the dark Lan<g ref="char:EOLhyphen"/>thorne of deluſion. Thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Logicke conſiſts more i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Diviſion then Definition
+<pb facs="tcp:171542:75"/> diſcord is the muſicke <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey are delighted with: where harmonious con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, love and concord is, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lawyer can live no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore in that place, then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpider in Ireland. Other <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens unquietnes is their quietneſſe, it being their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>appineſſe to fiſh in trou<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led waters, where if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey catch not poore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn, they'l make him. Clients are ſo long waft<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the ſea of troubles <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y their quirkes and de<g ref="char:EOLhyphen"/>ayes, that if they eſcape <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rowning, they are ſure <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t laſt to land at Beggars Haven. Their word is <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urrat L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x,</hi> let the Law <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave his courſe, but their
+<pb facs="tcp:171542:76"/> will is to ſtop it. A moti<g ref="char:EOLhyphen"/>on this Tearme, an order next; inſtantly all croſ<g ref="char:EOLhyphen"/>ſed: one Tearme proves contradictory to ano<g ref="char:EOLhyphen"/>ther: the ſuit runnes on<g ref="char:punc">▪</g> 
+                  <hi>ſine termino,</hi> wherby each Tearme becomes woful<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the client, an Hilary t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ignoramus</hi> the Lawyer. This makes a ſyllogiſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo ſeldome in the mood<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Feſtino,</hi> that he oftentime<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> makes his moane in <hi>Bo<g ref="char:EOLhyphen"/>cardo,</hi> the one by his Seſ<g ref="char:EOLhyphen"/>ſion taking away the o<g ref="char:EOLhyphen"/>thers poſſeſſion. <hi>Demo ſthenes</hi> was wont to cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lawes, <hi>animam civi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tatis,</hi> the ſoule of a city or politicke body. An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cyrus</hi> being demanded
+<pb facs="tcp:171542:76"/> whom in his judgement he conceived to bee un<g ref="char:EOLhyphen"/>juſt, <hi>Lege inquit non uten<g ref="char:EOLhyphen"/>tes,</hi> they (ſaith he) who uſe not the Law. But now the caſe is otherwiſe; ma<g ref="char:EOLhyphen"/>ny that uſe the Law are moſt unjuſt: whom I may tax as <hi>Ariſtotle</hi> did<note place="margin">Laert. lib. 5.</note> the Athenians, They la<g ref="char:EOLhyphen"/>bour more to bee advan<g ref="char:EOLhyphen"/>ced to honour, and to a<g ref="char:EOLhyphen"/>bound with riches, then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o promote the candour and ſincerity of the Law. They make the common and Canon Lawes, En<g ref="char:EOLhyphen"/>gines to take away our lands and titles, not to ſe<g ref="char:EOLhyphen"/>cure them. And as <hi>Solon</hi> once complained, they make them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb facs="tcp:171542:77"/> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, like Spiders webs, which every great Drone will break through at his pleaſure, when the ſmall Fly is intangled in them to his utter overthrow. <hi>Plato</hi> being earneſtly be<g ref="char:EOLhyphen"/>ſought of the Cyrenians to preſcribe and compoſe Lawes to their Common wealth, refuſed, ſaying, <hi>Perdifficile eſt condere le<g ref="char:EOLhyphen"/>ges tam foelicibus:</hi> it is hard to eſtabliſh Lawes to men ſo opulent and flouriſhing in ſo great proſperity. Money is the white theſe conſcience'es Lawyers ayme at. Their Sunne which is full of motes ſhines not upon the rich and poore alike.
+<pb facs="tcp:171542:77"/> If then no plummets but thoſe of an unreaſonable weight can ſet their mer<g ref="char:EOLhyphen"/>cenary tongues a going; and then a golden addi<g ref="char:EOLhyphen"/>tion can make the ham<g ref="char:EOLhyphen"/>mer ſtrike to our pleaſure; if they keep their mouths and their eares ſhut till their purſes be full, and will not underſtand a cauſe till they feele it,</p>
+               <lg>
+                  <l>
+                     <hi>Quid faciant leges, ubi ſo<g ref="char:EOLhyphen"/>la</hi>
+                     <note place="margin">Petron.</note> 
+                     <hi>pecunia regnat?</hi>
+                  </l>
+                  <l>
+                     <hi>Aut ubi paupertas vincere nulla poteſt?</hi>
+                  </l>
+                  <l>Why are lawes made, where money beares the ſway?</l>
+                  <l>And where poore men are ſure to loſe the day?</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:78"/>
+               <head>A Phyſitian.</head>
+               <p>A Phyſitian hath ſome affinity with the Lawyer; and although they act not the ſame part on this earthly Theater, yet gaine is <hi>communis terminus</hi> which con<g ref="char:EOLhyphen"/>nects them.</p>
+               <q>
+                  <l>Iuris conſultorum idem<note place="margin">Owen Epiſ. 71. l. 1.</note> ſtatus &amp; medicorum eſt.</l>
+                  <l>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mna quibus licito ſunt aliena lucro.</l>
+                  <l>Hi morbis aegrorum, a<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orum l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tibus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ui.</l>
+                  <l>Dant pattenter opem, dum potiantur opum.</l>
+               </q>
+               <q>
+                  <pb facs="tcp:171542:78"/>
+                  <l>The Lawyers and Phyſitians caſe have neer affinity;</l>
+                  <l>For others ruines make them rich, no doubt moſt lawfully.</l>
+                  <l>Theſe ſucke the ſicke for potions, pounds.</l>
+                  <l>For Law thoſe lands purloine:</l>
+                  <l>Theſe promiſe health, and ſo get wealth;</l>
+                  <l>Thoſe quietneſſe for coine.</l>
+               </q>
+               <p>When men prevaile in ſtrength of body, they conſult with the lying Oracle the Lawyer who makes them wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſo long attendance, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o often
+<pb facs="tcp:171542:79"/> explicate their wearied joints that hee makes them ſicke; then they conſult with as bad an Oracle, the Oracle of <hi>Apollo</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> I had al<g ref="char:EOLhyphen"/>moſt ſaid) the Phyſitian, to recover their former health. Ones <hi>exit</hi> be<g ref="char:EOLhyphen"/>ing the others <hi>Intrat.</hi> The dignity of a Phyſi<g ref="char:EOLhyphen"/>tian is great, though ſometimes baſe abjects in themſelves, are the objects of his ſpeculati<g ref="char:EOLhyphen"/>on, and the reſtauration of a frail habitation is the <hi>finis cujus</hi> of his pra<g ref="char:EOLhyphen"/>ctice. Chriſt is a Phyſi<g ref="char:EOLhyphen"/>tian both of ſoule and body: the body cannot be cured except the ſoul
+<pb facs="tcp:171542:79"/> of the Phyſician doth preſcribe a medicine, the ſoule of the Phyſitian cannot preſcribe a reme<g ref="char:EOLhyphen"/>dy, except God who is the ſoule of his ſoule doth enlighten that di<g ref="char:EOLhyphen"/>vine part, no more then the lower orbes move without the <hi>primum mobile. Sabid</hi> King of Arabid, <hi>Sabor</hi> and <hi>Giges</hi> Kings of the Medes, <hi>Mithridates</hi> King of Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus, <hi>Dionyſius, Tyr. Si<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulus,</hi> with many o<g ref="char:EOLhyphen"/>ther blazing ſtars in the worlds firmament, were profeſſed Phyſitians.</p>
+               <p>The Poets faine <hi>Apollo</hi> to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he firſt inventer of Phyſicke or Medicine:</p>
+               <q>
+                  <pb facs="tcp:171542:80"/>Inventumque medecinae<note place="margin">Metam. l. 1.</note> meum eſt, opiferque per orbem Dicor—</q>
+               <p>And certainly many Phyſitians may bee cal<g ref="char:EOLhyphen"/>led by the name of <hi>Apol<g ref="char:EOLhyphen"/>lo,</hi> derived from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies to periſh (not onely <hi>formaliter</hi> but <hi>effective</hi>) for either they are ſuch unskilf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Empericks, as <hi>Pliny</hi> ſpea<g ref="char:EOLhyphen"/>keth of, <hi>Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exper<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>men<g ref="char:EOLhyphen"/>ta per mortes gunt,</hi> which give men many poyſo<g ref="char:EOLhyphen"/>nous pilles to gaine ex<g ref="char:EOLhyphen"/>perlence; and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Offici<g ref="char:EOLhyphen"/>oſiſſ me muitos occidunt,</hi> they are very buſie to caſt many men away with expedition, wan<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:171542:80"/> skill: Or elſe wan<g ref="char:EOLhyphen"/>ting will to recover their patients, they let them lie languiſhing at Sicke<g ref="char:EOLhyphen"/>mans Hoſpitall under the burthen of a life worſe then death.</p>
+               <p>Gaine is the center of moſt Phyſitians practice, bodies are the orbes which receive the influ<g ref="char:EOLhyphen"/>ence of theſe ſtars, whoſe nature it is to ſuffer a continuall eclipſe with<g ref="char:EOLhyphen"/>out the often interpoſiti<g ref="char:EOLhyphen"/>on of earth. You muſt ſupple their hands with ſome <hi>unguentum rubrum</hi> or <hi>album,</hi> which is in your purſe, or elſe they will hardly feele your pulſe, but rather will ex<g ref="char:EOLhyphen"/>tinguiſh
+<pb facs="tcp:171542:81"/> the lampe of your life then preſerve it, and many times the bo<g ref="char:EOLhyphen"/>dy if it bee ſicke is con<g ref="char:EOLhyphen"/>tent to buy <hi>unguentum aereum</hi> with <hi>unguentum aurcum,</hi> leaden traſh with golden caſh. Hee tells your diſeaſe in ſome hyperbolicall bombaſte words, though it be but an ague or tooth ach, and his Rethoricke is to per<g ref="char:EOLhyphen"/>ſwade that you are deſ<g ref="char:EOLhyphen"/>perately ſicke, almoſt ir<g ref="char:EOLhyphen"/>recoverable, that his gaine might bee greater, and his skill ſeem incom<g ref="char:EOLhyphen"/>parable.</p>
+               <p>Without action and paſſion the Phyſitian would ſcarce bee in the
+<pb facs="tcp:171542:81"/> predicament of ſub<g ref="char:EOLhyphen"/>ſtance: he drawes good out of evill, and when<g ref="char:EOLhyphen"/>ſoever he is in the voca<g ref="char:EOLhyphen"/>tive caſe, his patient muſt bee in the ablative. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Who is this, a Phyſitian? Oh in what an ill caſe every Phyſitian would bee, if no man were in an ill caſe. Corruption is his conſervation, and <hi>Adams</hi> fall was his riſe. Phy<g ref="char:EOLhyphen"/>ſicke includes ſicke, They that are whole need not a Phyſitian. Thrice happy are they who are not neceſſitated to embrace ſuch a wal<g ref="char:EOLhyphen"/>king
+<pb facs="tcp:171542:82"/> conſumption of the purſe, who though by his art he prolongs your life, he will bee the At<g ref="char:EOLhyphen"/>tropos who ſhall cut off the golden thread of your livelihood, and ſo ſpinne a faire thread for himſelfe.</p>
+               <p>I have read the <hi>Socrates</hi> never needed a Phyſiti<g ref="char:EOLhyphen"/>an, <hi>Pomponius</hi> a Poet of noble Progeny, was ſo ſound that he never bel<g ref="char:EOLhyphen"/>ched: <hi>Anthonia</hi> the wife of <hi>Druſus</hi> never ſpit: If all were ſo, <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Galenus opes</hi> were falſe. <hi>Nico<g ref="char:EOLhyphen"/>cles</hi> would have wanted an occaſion to call Phy<g ref="char:EOLhyphen"/>ſitians happy (becauſe their good ſucceſſe the
+<pb facs="tcp:171542:82"/> Sunne beholds, and their errors the earth buries in obſcurity) if there were no objects to worke on, for then like empty ſto<g ref="char:EOLhyphen"/>macks, they will worke upon themſelves. Who<g ref="char:EOLhyphen"/>ſoever keepes a good di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et uſing <hi>Vel modico me<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cè vel medico modicè</hi> is a Phyſitian to himſelfe, and needs not worſhip. <hi>Aeſculapius</hi> who is ado<g ref="char:EOLhyphen"/>red<note place="margin">Ovid de Ponto.</note> in a ſerpentine form, but if (<hi>ad medicam confugit aeger opem</hi>) any man bee conſtrained to fly to the Phyſitian, let him uſe none but ſuch as are skilfull (and ſo able to give a reaſon for a re<g ref="char:EOLhyphen"/>medy, if with <hi>Ariſtotle</hi>
+                  <pb facs="tcp:171542:83"/> thou doſt aske them) and<note place="margin">Aelian l. 9 c. 23. var. hiſt.</note> conſcionable conſide<g ref="char:EOLhyphen"/>ring <hi>preſentem que refert qualibet herba Deum,</hi> e<g ref="char:EOLhyphen"/>very herb which they uſe is a dumbe lecture of a preſent deity.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:83"/>
+               <head>A good woman.</head>
+               <p>A Good woman is a rare Phoenix, a chaſt Turtle, and an indulgent Pelican: ſhee is Vertues morall Looking-glaſſe, and deſires to excell in vertue, not in veſture. The Veſtall fire of cha<g ref="char:EOLhyphen"/>ſtity continually burnes on the hallowed Altar of her heart: ſuch a b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh<g ref="char:EOLhyphen"/>full heat at ſeverall tides ebbes and flowes; flows and ebbes againe in her modeſt face, as if it were afraid to meet the wilder flames of ſome unchaſte
+<pb facs="tcp:171542:84"/> Gallants. Her lips are never guilty of a wanton ſmile; not one laſcivious glance doth dart from her eye; her cariage is ſober, free from all toy<g ref="char:EOLhyphen"/>iſh geſtures, and her diſ<g ref="char:EOLhyphen"/>courſe is a morall lecture of chaſtity. No man (though hee bee paſt all expreſſion comely, being adorned with fine haire, amorous browes, pretty lovely eyes, moſt delici<g ref="char:EOLhyphen"/>ous cheeks, an handſome noſe, Nectar-ſweet lips, teeth like two faire ivory pales, incloſing a tongue made up of harmony) is able to make her loſe the Virgin-zone without the nuptiall knot; and there
+<pb facs="tcp:171542:84"/> the conjunction of this milder Starre will tem<g ref="char:EOLhyphen"/>per the malignant force of any man, though he be like cruel <hi>Mars,</hi> carying a ſtorm in his countenance, and a tempeſt in his tongue. God who reads the ſecret characters of her heart, findes no other image graven in her ſoule beſides her husband. The Sun ſhall ſooner change his courſe, and finde new paths to drive his chariot in: the Loadſtone ſhall leave his faith unto the North, ſooner then ſhee will leave hers to her husband. She is beyond all jealouſie immaculate. She is no perſonage that
+<pb facs="tcp:171542:85"/> had other Incumbents. She hath power enough to conquer them who have learned the military diſcipline of wooing, and are recorded in <hi>Cupids</hi> Annals for great exploits: though they can ranke and file their kiſſes, and muſter their troupes of complements, ſhee will not yeeld unto them be<g ref="char:EOLhyphen"/>yond the preciſe rules of honeſty; neither is ſhee affected with ſuch a proud ſqueamiſh coy<g ref="char:EOLhyphen"/>neſſe, as to deny any ho<g ref="char:EOLhyphen"/>neſt man free leave to ſa<g ref="char:EOLhyphen"/>crifice a kiſſe upon her ruby lips. If her husband goe to the Elyſian fields before her, ſhe embalmes
+<pb facs="tcp:171542:85"/> him with her teares, and keepes the ſparkes of a love alive in his aſhes. That man is happy that maries her, he may bleſſe that minute wherein hee met her, and may de<g ref="char:EOLhyphen"/>ſire Time to ſancti<g ref="char:EOLhyphen"/>fie it above all his Calendar.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:86"/>
+               <head>A proud woman.</head>
+               <p>A Proud woman is <hi>Eves</hi> ſinfull daugh<g ref="char:EOLhyphen"/>ter, beguiled in fooles paradiſe, with the Adde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> arrogance. If ſhee b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rich there is nothing more intollerable, as the Poet, <hi>Intelerabilius nihi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">Juven. Sat. 6.</note> 
+                  <hi>eſt quam faemina dives.</hi> Inſolent pride doth ſo poſſeſſe her, that ſhe de<g ref="char:EOLhyphen"/>lights to be an Ape tric<g ref="char:EOLhyphen"/>ked up in gorgeous ap<g ref="char:EOLhyphen"/>parrell which muſt be unmended but not un<g ref="char:EOLhyphen"/>commended. As the Stoicks placed felicity in
+<pb facs="tcp:171542:86"/> the inward habit of ver<g ref="char:EOLhyphen"/>tue, ſo ſhee in the out<g ref="char:EOLhyphen"/>ward habit of veſture, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounting it her <hi>ſummum bonum</hi> to excell therein, witneſſe the Mercers, Silke-men, Tire-women, and all other profeſſions, whoſe Tutelar goddeſſe is pride, the monopoll of miſchiefe. As it is ſaid of Italy, <hi>Novitate qua<g ref="char:EOLhyphen"/>dam nihil habet ſtabile,</hi> ſhe is ſo mutable that ſhe hath nothing ſtable, ſhee ſhifts her attire ſo often, that her husband cannot ſhift himſelfe out of the Tradeſmens bookes. Through her monſtrous pride hee is conſtrai<g ref="char:EOLhyphen"/>ned to turne hoſpitality
+<pb facs="tcp:171542:87"/> into a dumbe ſhew, whereby the ſoule of charity is tranſmigrated into the body of brave<g ref="char:EOLhyphen"/>ry. Pride beginnes with <hi>habe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> but ends with <hi>de<g ref="char:EOLhyphen"/>beo,</hi> and ſometimes makes good every ſyllable <hi>gra<g ref="char:EOLhyphen"/>datim<g ref="char:punc">▪</g> Debeo,</hi> I owe more then I am able to pay. <hi>Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> I bleſſe my ſelfe from my creditors. <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> I betake me to my heels. A woman which is ſtung with that inſinuating ſer<g ref="char:EOLhyphen"/>pent pride, leanes conti<g ref="char:EOLhyphen"/>nually on idleneſſe the Divells cuſhion, ſpending her dayes in vanity; ſhee ſpends many an houre betweene the combe and the looking-glaſſe that
+<pb facs="tcp:171542:87"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eers her before her face, criſping and curling that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oor excretion her haire, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſitting as moderator <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etweene them both, and whether concludes beſt on her beauty is beſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raiſed: All the morning <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſpends in dilling and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecking her body, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tarving her ſoule, ſhee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ever goes to Church <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrough devotion, but to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee and to be ſeene, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough ſhe be lip-holy, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he is heart-hollow, ſhee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ikes ſtanding at the Creed, not becauſe the Church commands it, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut becauſe her gay <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loathes are more ſpe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>table; ſhee will laugh
+<pb facs="tcp:171542:88"/> there of purpoſe with <hi>Egnatius,</hi> to ſhew her white teeth. The ayre of her pride is commonly incloſed in the baſe bub<g ref="char:EOLhyphen"/>ble attire, whoſe genera<g ref="char:EOLhyphen"/>tion is produced from her owne corruption. God hath made her a woman out of man, bringing woe to man: yet ſhe thinks her ſelfe not a perfect woman except the Taylor (ſcarce a man himſelfe) whoſe o<g ref="char:EOLhyphen"/>riginall was ſinne, make her a brave gallant wo<g ref="char:EOLhyphen"/>man. Shee is never the greater part of her ſelfe, but the leaſt. Like the bird of Paradiſe, her fea<g ref="char:EOLhyphen"/>thers are more worth then her body. Whoſo<g ref="char:EOLhyphen"/>ever paints this conſtant<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:171542:88"/> inconſtant Woman, muſt paint her with a paire of ſheeres in one hand, and a piece of cloth in the other, ready for a<g ref="char:EOLhyphen"/>ny new faſhion: ſhe coun<g ref="char:EOLhyphen"/>terfeits the great ſeale of Nature, and walkes with an artificiall complexion, being no better then a walking Painters ſhop. Our women are ſo poin<g ref="char:EOLhyphen"/>ted and painted, that whereas heretofore there were two feces under one hood, now there is one face under two hoods; and the colour for their painting is, that they may be daughters of ad<g ref="char:EOLhyphen"/>miration, and ſo they are for their folly. Optickes
+<pb facs="tcp:171542:89"/> is this womans ſcience, the next new-fangled fa<g ref="char:EOLhyphen"/>ſhion, and the reflexion of her face, terminates her ſight, and is the ſcope of her ſtudy &amp; diſcourſe. Becauſe ſweet ſmels are dedicated to <hi>Venus,</hi> ſhe is never without them. <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n bene olet quae bene ſemper olet:</hi> ſhee ſmels not well, which alwaies ſmels wel: for ſhee which breathes perfumes artificially, hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corrupted lungs natural<g ref="char:EOLhyphen"/>le. Shee that weares al<g ref="char:EOLhyphen"/>wayes gaudy cloths, may nouriſh the French Cani<g ref="char:EOLhyphen"/>ball. <hi>Foemina cultanimis foemina caſta minus.</hi> Too ſlender chaſtity ſtill ac<g ref="char:EOLhyphen"/>companies too gaudy
+<pb facs="tcp:171542:89"/> bravery. The Poets fai<g ref="char:EOLhyphen"/>ned <hi>Venus</hi> to commit a<g ref="char:EOLhyphen"/>dultery in golden chains. <hi>Lewis</hi> the eleventh was wont to ſay, when pride was on her ſaddle, ſhame and confuſion was on the crupper. This peſtilent vapour pride muſt vaniſh, or elſe women with their top-gallant head-attires, cannot ſtoop low enough to enter into the nar<g ref="char:EOLhyphen"/>row low gate of heaven.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:90"/>
+               <head>A prodigall man.</head>
+               <p>A Prodigall man is moſt commonly the ſon of a covetous wretch, who ſate brooding upon his bagges, and onely knew the care, but not the uſe of gold. It is the wealthy beggery of thri<g ref="char:EOLhyphen"/>ving and griping fathers, that makes the hands of ſonnes ſo open. The fa<g ref="char:EOLhyphen"/>ther becomes a Mole and ſonne of earth, that digges his mothers intrals to turne up treaſure for his prodigall ſonne, and with induſtrious eyes he
+<pb facs="tcp:171542:90"/> ſearches to hell, to buy his ſonne heaven upon earth. When wealth like a torrent overthrowes the banke, as it would threat a deluge; this ſwaggering ſpendthrift (who by mo<g ref="char:EOLhyphen"/>rall Alchymie is extra<g ref="char:EOLhyphen"/>cted a Gentleman almoſt out of the dunghill) in<g ref="char:EOLhyphen"/>vents ſluces enow to draine the copious ſtream thereof. He will bid his pockets not bee ſad, for though they are heavie now, they ſhall be ſoone lighter. Hee will ſweare never to weare any thing that jingles beſides his ſpurres. As the Earth ſwallowed <hi>Amphiaraus,</hi> ſo he ſwallows the earth,
+<pb facs="tcp:171542:91"/> and makes his purſe ſicke of a conſumption not to be recovered. The pro<g ref="char:EOLhyphen"/>digall<note place="margin">Ariſt. l. 4. Ethic. c. 1.</note> man is one that ex<g ref="char:EOLhyphen"/>ceeds in giving moneys. He is better then the co<g ref="char:EOLhyphen"/>vetous man, who exceeds in receiving; becauſe prodigality comes nea<g ref="char:EOLhyphen"/>reſt to liberality. For they are liberall which give and receive, nothing ex<g ref="char:EOLhyphen"/>ceeding the golden me<g ref="char:EOLhyphen"/>diocrity. But liberality leans more towards them that give, then them that receive; for they that receive (ſaith <hi>Ariſtotle</hi>)<note place="margin">Ibid.</note> are not praiſe-worthy at all. The vertue which conſiſts in a Geometrical mediocrity in all things
+<pb facs="tcp:171542:91"/> is beſt: according to the Poet,</p>
+               <q>—Modus optima regu<g ref="char:EOLhyphen"/>la rerum.</q>
+               <p>The prodigal man thinks it a diſparagement to his nature to obſerve any golden meane: for hee thinkes it the beſt morall Philoſophy to ſpend his gold and meanes; and that he may be the better proficient in this Art of ſpending, hee gets the e<g ref="char:EOLhyphen"/>lective habit of chuſing ſuch brave companions, that like skilfull Pilots will ſteere both him and his eſtate into ſafe har<g ref="char:EOLhyphen"/>bour. Therefore I may ſay to him as <hi>Martial</hi> doth unto <hi>Cinna,</hi>
+               </p>
+               <q>
+                  <pb facs="tcp:171542:92"/>
+                  <l>Nam tu dum metuis <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <note place="margin">Ep. lib. 9.</note> quid poſt fata relinqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</l>
+                  <l>Hauſiſti patrias luxu<g ref="char:EOLhyphen"/>rioſus opes.</l>
+               </q>
+               <p>He being afraid leſt he ſhould leave any thing after death, will bee ſure with <hi>Demetrius</hi> the ſonne of <hi>Antigonus,</hi> to ſpend<note place="margin">Plut.</note> his patrimony in riot, lu<g ref="char:EOLhyphen"/>xurie, and all extravagant enormities. Hee would diſpeople al the elements to pleaſe his palate. Mid<g ref="char:EOLhyphen"/>night ſhall behold his nightly cups and weare a blacker maske, as envious of his jollity. He wil caſt his love upon ſuch dan<g ref="char:EOLhyphen"/>gerous rockes as harlots,
+<pb facs="tcp:171542:92"/> to ſatisfie his liquoriſh luſts<g ref="char:punc">▪</g> He will ever be a devout ſacrificer to <hi>Bac<g ref="char:EOLhyphen"/>chus</hi> and <hi>Venus.</hi> He dyes commonly as <hi>Anacreon</hi> did, with a grape in his throat. If it were true as the Philoſopher ſayes, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Quod nutrit Deus eſt,</hi> that which nou<g ref="char:EOLhyphen"/>riſhes is a god: how ma<g ref="char:EOLhyphen"/>ny gods doth this man devour? and yet becomes more ungodly thereby. When this profuſe ſpen<g ref="char:EOLhyphen"/>der dyes, he will be ſure to have <hi>Tigellius</hi> his<note place="margin">Ambuba<g ref="char:EOLhyphen"/>jaru<g ref="char:cmbAbbrStroke">̄</g> Col<g ref="char:EOLhyphen"/>legia, &amp;c. Horat. l. 1. Ser. Sac. 2.</note> mourners to ſigh out ele<g ref="char:EOLhyphen"/>gies at his death, and to ſing dirges at his funerall.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:93"/>
+               <head>Truth.</head>
+               <p>TRuth is defined in Metaphyſicks, a con<g ref="char:EOLhyphen"/>formity of the thing and the underſtanding. In L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gicke it is a correſpon<g ref="char:EOLhyphen"/>dence of propoſitions with things. In a morall acception it is an Homi<g ref="char:EOLhyphen"/>liticall vertue, wherein we profeſſe that in word and deed which we con<g ref="char:EOLhyphen"/>ceive in our hearts to bee true. Hence it is one thing <hi>mentiri</hi> and another thing <hi>mendacium dicere.</hi> He is ſaid to lye and faine, which ſpeaks that againſt
+<pb facs="tcp:171542:93"/> his conſcience which perhaps otherwiſe is true in it ſelfe, this is falſe <hi>E<g ref="char:EOLhyphen"/>thice</hi> but not alwayes <hi>Lo<g ref="char:EOLhyphen"/>gicè.</hi> Hee is ſaid to tell a lye, who ſpeakes that which hee thinkes true when it is falſe in it ſelfe. This is falſe <hi>Logicè</hi> but not <hi>Ethicè.</hi> It is in the minde as in <hi>ſubjecto cog<g ref="char:EOLhyphen"/>nitivo,</hi> in the mouth as in <hi>ſigno repraeſentativo.</hi> The minde knowes, the mouth manifeſts. Veri<g ref="char:EOLhyphen"/>ly as <hi>Mirandula</hi> ſpake, <hi>Veritatem Philoſophia quaerit, Theologia inve<g ref="char:EOLhyphen"/>nit, Religio poſsidet.</hi> Phi<g ref="char:EOLhyphen"/>loſophy ſeeks Truth, Di<g ref="char:EOLhyphen"/>vinity findes it, Religion poſſeſſes it. Truth it
+<pb facs="tcp:171542:94"/> is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in <hi>Plato</hi> fair, kiſſe it therefore and ever embrace it, making it thy ſoules ſole intelli<g ref="char:EOLhyphen"/>gence.</p>
+               <p>The Roman Pretor wont alwayes to weare the image of Truth upon his breſt, and the true Chriſtian weares it ſtill in <hi>ſcrinio pectoris ſui,</hi> in<note place="margin">Egyptii veritatem ex huma<g ref="char:EOLhyphen"/>no corde gutturi appenſo <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in dicabant Pier. Val.</note> the cloſet of his heart. The Poets ingeniouſly deviſe, that when <hi>Iupiter</hi> had created man (who is virtually <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or an Index to Gods great booke in folio) finde fault, <hi>Momus</hi> told him that one thing hee greatly miſliked, which was, that hee had forgot
+<pb facs="tcp:171542:94"/> to frame a window in his breaſt, whereby it might be knowne whether the motions of his tongue were concentricke to his heart.</p>
+               <p>Truth is alwayes one and the ſame thing in her ſelfe, though in the ap<g ref="char:EOLhyphen"/>prehenſion of others ſhe lies ſicke ready to dye without a confeſſor; ſhee doth not like the Cha<g ref="char:EOLhyphen"/>meleon<note place="margin">Chamae<g ref="char:EOLhyphen"/>leon prae metu co<g ref="char:EOLhyphen"/>lores mu<g ref="char:EOLhyphen"/>tat. Geſ<g ref="char:EOLhyphen"/>nerus.</note> put on divers co<g ref="char:EOLhyphen"/>lours, for no palſey fears aſſault her, ſhe ſeekes no corners, but may looke <hi>Caeſar</hi> in the face, when falſhood dares looke no man, but like the Owle hates the light, ſetting<note place="margin">Euripi<g ref="char:EOLhyphen"/>de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> light by Truth. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb facs="tcp:171542:95"/> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> The night is the theeves, and the day Truthes, though ſometimes ſhee loſes it. Truth is a fixed ſtarre not a planet, and all people love it <hi>lucen<g ref="char:EOLhyphen"/>tem</hi> not <hi>reaarguentem,</hi> light is good, but yet to ſore eyes very offen<g ref="char:EOLhyphen"/>ſive; hony though ſweet, is to wounds ſmarting: Truth is alwayes whole<g ref="char:EOLhyphen"/>ſome, but to moſt di<g ref="char:EOLhyphen"/>ſtaſteful; as they write of ſome beaſts who have <hi>fel in aure,</hi> the gall in the eare, the hearing of Truth galls them, no<g ref="char:EOLhyphen"/>thing being more bitter to them, and better for them. Sweet <hi>Syren</hi>
+                  <pb facs="tcp:171542:95"/> ſounds is the harmony whereof their ſouls con<g ref="char:EOLhyphen"/>ſiſt, they ſtomacke truth and the rough phraſe of reproofe, but their ſtomackes can digeſt ſmooth fables and con<g ref="char:EOLhyphen"/>coct errors.</p>
+               <q>Sed quid opus teneras<note place="margin">Perſius S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. 1.</note> mord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ci radere vero Au<g ref="char:EOLhyphen"/>riculas.</q>
+               <p>Sharpe biting Satyrs of reprehenſion offend delicate eares. It was <hi>Agathons Dilemma,</hi> if I pleaſe thee I ſhall not tell the truth, and if I tell the truth I ſhall not pleaſe thee, but procure enmi<g ref="char:EOLhyphen"/>ty, <hi>Veritas odium parit:</hi>
+                  <note place="margin">Ter.</note>
+                  <pb facs="tcp:171542:96"/> As the beautifull Nymphs are ſaid to have brought forth the ill fa<g ref="char:EOLhyphen"/>voured Fawnes and Sa<g ref="char:EOLhyphen"/>tyrs; ſo beautifull and glorious truth brings forth hatred, enmity and many foule deformities. <hi>Aliena vitia quiſque re<g ref="char:EOLhyphen"/>prehendi</hi>
+                  <note place="margin">Quintili<g ref="char:EOLhyphen"/>an. l. 2. Orat. c. 5.</note> 
+                  <hi>mavult quam ſua<g ref="char:punc">▪</g>
+                  </hi> Every man had ra<g ref="char:EOLhyphen"/>ther other mens vices were reproved then his owne. Truth like that bloudy water ſweet and potable to the Hebrwes, ſaith <hi>Ioſephus,</hi> but ſowre and not potable with the Egyptians. Truth in the univerſall, <hi>ſubratione ve<g ref="char:EOLhyphen"/>ri</hi> is hated of none, but in the particular, <hi>ſub ra<g ref="char:EOLhyphen"/>tione
+<pb facs="tcp:171542:96"/> contrarii,</hi> ſo it is u<g ref="char:EOLhyphen"/>ſually hated of all. The bright rayes of this Sun that never ſetteth, refle<g ref="char:EOLhyphen"/>cting on a wiſe man who hath learned that heaven<g ref="char:EOLhyphen"/>ly precept, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, illuminate his underſtan<g ref="char:EOLhyphen"/>ding with a greater light of wiſedome: but in the breaſt of fooles they kin<g ref="char:EOLhyphen"/>dle a fire of ire and enmi<g ref="char:EOLhyphen"/>ty. <hi>Quint<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lian</hi> gave <hi>Ve<g ref="char:EOLhyphen"/>ſpaſian</hi> this commenda<g ref="char:EOLhyphen"/>tion, <hi>Patientiſsimus veri,</hi> which few men in theſe dayes deſerve, being ſo bad; for as the Poet,
+<q>
+                     <l>Rari quippe boni numero<note place="margin">Iuven. Sat. 13.</note> vix ſunt totidem quot</l>
+                     <l>The barum portae vel divi<g ref="char:EOLhyphen"/>tis oſtia Nili.</l>
+                  </q>
+                  <pb facs="tcp:171542:97"/> good men are ſo rare, that they are ſcarce ſo many in number as the gates of Thebes, or mouthes of rich Nilus, which were but ſeven. <hi>Ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minondas</hi> a Theban was ſo ſevere and ſtrict a lover of truth, <hi>Vt ne joco quidem menti<g ref="char:EOLhyphen"/>tus</hi>
+                  <note place="margin">Alex. ab Alex.</note> 
+                  <hi>ſit:</hi> that he abhorred a lye even in jeſt. I would have all men put on this armour of proofe, and then they need not feare wounding. Truth (like <hi>Meduſa's</hi> head) will turne their adverſaries into ſtones: and againe, like <hi>Orpheus</hi> his pipe, it moves the ſtones, and gives life unto the dead. Let this glorious light then, which
+<pb facs="tcp:171542:97"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hines brighteſt between <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo clouds, Malice, Er<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, be thy <hi>Cynoſura</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oad-ſtarre, to guide thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul the mother of truth, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thy tongue the Mid<g ref="char:EOLhyphen"/>wife.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171542:98"/>
+               <head>An Invective againſt ignorant Mecha<g ref="char:EOLhyphen"/>nickes who preſume to prate in Chur<g ref="char:EOLhyphen"/>ches and Conven<g ref="char:EOLhyphen"/>ticles.</head>
+               <p>
+                  <hi>HOW</hi> now? goodman cobler, have I carch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you ſtitching together the Ends of tub ſermons, to the end your hollow<g ref="char:EOLhyphen"/>neſſe might ſound forth an alarum to the ſuppoſed Saints of God who wear Chriſts colours, but fight under the Devils banner?
+<pb facs="tcp:171542:98"/> Doe you deeme your ſelf and your ignorant adhe<g ref="char:EOLhyphen"/>rents to be all in Aule, and to be the Sole Elect at the Laſt? Be not deecived, God is not mocked. Are you ſo light-headed as to thinke your ſelfe a light of the Church, and the onely ſtarre which points the way to Chriſt? Cer<g ref="char:EOLhyphen"/>taine I am, if there were no brighter ſtarres, and more ſhining lights in this heaven upon earth, our Church now truly mili<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant, then thou art, wee ſhould all walke in dark<g ref="char:EOLhyphen"/>neſſe, and in the ſhadow of death: we ſhould ſoon ſuffer ſhipwracke on the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raggy cliſts of utter per<g ref="char:EOLhyphen"/>dition,
+<pb facs="tcp:171542:99"/> in the Euxine ſea of ignorance, if we ſhould be as Load-ſtones turn<g ref="char:EOLhyphen"/>ing to you as our Pole<g ref="char:EOLhyphen"/>ſtarre: if you will bee a Starre, you ſhall bee a Dogge-ſtarre, whoſe in<g ref="char:EOLhyphen"/>fluence is ſo bad, that it hinders the purgation of any malignant humours, and begets more. If I muſt grant you ſome light, you are at the beſt but an <hi>Ignis fatuus</hi> of blinde zeale, ſeduced your ſelfe, and ſeducing others. You are indeed but a noyſome vapour e<g ref="char:EOLhyphen"/>levated above your ſelfe, ſo that all the world may thinke you to bee as you are, beſides your ſelfe.
+<pb facs="tcp:171542:99"/> You are a worſe plague unto our Land, then ever was any thing unto Ae<g ref="char:EOLhyphen"/>gypt, and therefore I will ſay with the Poet,</p>
+               <q>—Ditalem avertite peſtem.</q>
+               <p>You are the very <hi>Hy<g ref="char:EOLhyphen"/>dra</hi> of our ills, and you doe endeavour to make this Land <hi>Lernam malo<g ref="char:EOLhyphen"/>rum,</hi> a filthy ſinke of all evils; therefore you de<g ref="char:EOLhyphen"/>ſerve to ſinke and not ſwim. The Church of God is an Arke, and you are one of the uncleane beaſts in it. O touch not the Church with your unhallowed and foule hands. <hi>Atlas</hi> is the pil<g ref="char:EOLhyphen"/>lar of the Poets Empy<g ref="char:EOLhyphen"/>reall
+<pb facs="tcp:171542:100"/> Palace. A childe muſt not take <hi>Atlas</hi> his burden upon his owne ſhoulders, for then hee will be ſure to fall under it. Neither ſhould you take the weigh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y calling of the Miniſtery upon you, being not called thereunto. You being un<g ref="char:EOLhyphen"/>learned ought to reach none. If you offer to lead the learned, your attempt is as much as if the blind ſhould preſume to lead him that can ſee: if you endeavor to lead the un<g ref="char:EOLhyphen"/>learned into the way of truth, it is as much as if the blind ſhould offer to lead the blind, &amp; the<g ref="char:cmbAbbrStroke">̄</g> the con<g ref="char:EOLhyphen"/>ſequent will be, you will
+<pb facs="tcp:171542:100"/> both fall into the ditch together. Therefore I will ſay unto you, as Saint <hi>Paul</hi> unto women; You are not to ſpeake in the Church. You by your pernicious aire and fecu<g ref="char:EOLhyphen"/>lent doctrines ſtrive to defile the ſilver ſtreames of learning, and to poy<g ref="char:EOLhyphen"/>ſon the pure fountaine of truth and ſound religion.</p>
+               <p>Your Commentaries upon the ſacred Bible, are like to an handfull of filthy ordure fetcht from <hi>Augaeus</hi> Stable, and caſt in the face of beauties faireſt table; yet you would faine bee called <hi>Seer</hi> though you are moſt blinde, for to bee
+<pb facs="tcp:171542:101"/> ignorant of ones igno<g ref="char:EOLhyphen"/>rance is a double blinde<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>Are you ſo well read in the booke of life, as that you can like a <hi>Boa<g ref="char:EOLhyphen"/>narges,</hi> or ſonne of thun<g ref="char:EOLhyphen"/>der, denounce damnati<g ref="char:EOLhyphen"/>on to thoſe that are not of your blinde Sect: And like a <hi>Barnabas,</hi> or ſonne of conſolation, can you promiſe abſolution to your ſelves? You are not skild I am ſure in di<g ref="char:EOLhyphen"/>vlne Aſtrolabe, neither can you take with the <hi>Iacobs</hi> ſtaffe of your pre<g ref="char:EOLhyphen"/>tended purity, the height of any ſta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e in the fir<g ref="char:EOLhyphen"/>mament of Grace, you are not able to knocke
+<pb facs="tcp:171542:101"/> downe one ſtarre and place another. You and all of your mad Sect are ſeedſters of ſchiſme and debate: You raile a<g ref="char:EOLhyphen"/>gainſt the Common<g ref="char:EOLhyphen"/>prayer Booke, becauſe it was uſed and abuſed in the time of Popery; you may as well acknow<g ref="char:EOLhyphen"/>ledge Chriſt not to bee the Sonne of the living God, becauſe the Divell ſaid it; and becauſe the Papiſts weare cloathes, you may if you will goe naked, and then you will be as naked of cloathes as of reaſon. As the Chinois whippe their gods if they diſpleaſe them, ſo you whip any
+<pb facs="tcp:171542:102"/> godly men, wounding them with your tongues which have poyſon of aſpes under them. Though a Biſhop bee a lamp of our land, a pil<g ref="char:EOLhyphen"/>lar of the Church ere<g ref="char:EOLhyphen"/>cted by divine hand, and a Trophey built unto al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the vertues, yet if any word of his be an <hi>apage</hi> to you, and the cogitati<g ref="char:EOLhyphen"/>ons of his heart bee ex<g ref="char:EOLhyphen"/>centricke to yours (yours being excentricke to the holy Scripture) you cry downe with him downe with him even to the ground. This is your blindeneſſe; like the foo<g ref="char:EOLhyphen"/>liſh blinde Beldam <hi>Har<g ref="char:EOLhyphen"/>paſtes</hi> in <hi>Seneca,</hi> you im<g ref="char:EOLhyphen"/>pute
+<pb facs="tcp:171542:102"/> your blindeneſſe wherewith you are over<g ref="char:EOLhyphen"/>caſt, unto the place where you are and not unto your ſelfe. The light of the Goſpel was never clearer in England then now it is: But now <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſtrained to con<g ref="char:EOLhyphen"/>feſſe, the clearer the light is, the blinder are the Owles. I would to God there were an or<g ref="char:EOLhyphen"/>der taken with all Green teachers that ſteppe into the Pulpit without or<g ref="char:EOLhyphen"/>der, being never ripened by the reſplendent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eames of ſaving know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edge to perfection. If I have too much vinegar <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n my inke, or if rude
+<pb facs="tcp:171542:103"/> phraſe hath defiled and defaced my ſtile with barbariſme,</p>
+               <p>Pray pardon me, for in this argument</p>
+               <p>To bee Barbarian is moſt eloquent.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171542:103"/>
+            <pb facs="tcp:171542:104"/>
+            <pb facs="tcp:171542:104" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
